@@ -1,0 +1,1090 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gods goodnesse in crowning the King declared in a sermon in the church of Kingston upon Hull, on the happy day of the coronation of His Sacred Majesty Charls the Second, April the 23d, 1661 / by Edward Boteler ...</title>
+            <author>Boteler, Edward, d. 1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 104 KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28855</idno>
+            <idno type="STC">Wing B3801</idno>
+            <idno type="STC">ESTC R19494</idno>
+            <idno type="EEBO-CITATION">13057934</idno>
+            <idno type="OCLC">ocm 13057934</idno>
+            <idno type="VID">97011</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28855)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97011)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 409:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gods goodnesse in crowning the King declared in a sermon in the church of Kingston upon Hull, on the happy day of the coronation of His Sacred Majesty Charls the Second, April the 23d, 1661 / by Edward Boteler ...</title>
+                  <author>Boteler, Edward, d. 1670.</author>
+               </titleStmt>
+               <extent>[13], 65 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Bedd and T. Collins, and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97011:1"/>
+            <pb facs="tcp:97011:1" rendition="simple:additions"/>
+            <p>GODS GOODNESSE IN Crowning THE KING. Declared in a SERMON In the Church of <hi>Kingſton</hi> upon <hi>Hull,</hi> on the happy day of the Co<g ref="char:EOLhyphen"/>ronation of His Sacred Majeſty <hi>CHARLS</hi> the <hi>SECOND.</hi> April the 23<hi rend="sup">d</hi>. 1661.</p>
+            <p>By EDWARD BOTELER, ſometimes fellow of St. <hi>Ma<g ref="char:EOLhyphen"/>ry Magdalen</hi> Colledge in <hi>Cambridge,</hi> and now Rector of <hi>Wintringham</hi> in the County of <hi>LINCOLN.</hi>
+            </p>
+            <q>
+               <bibl>Horat. Carm. li. 4. Od. 5.</bibl>
+               <l>Sic deſideriis icta fidelibus</l>
+               <l>Quaerit patria Caeſarem.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. Bed<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</hi> and <hi>T. Collins,</hi> and are to be ſold at their Shop at the <hi>Middle Temple</hi>-Gate in <hi>Fleet ſtreet.</hi> 1662.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:97011:2"/>
+            <pb facs="tcp:97011:2"/>
+            <head>To the Right Honourable, JOHN LORD <hi>BELLASSYSE</hi> Baron of Worlaby, Lord Lieutenant of the <hi>Eaſt-Riding</hi> of <hi>York-ſhire,</hi> and Governour of His MAIE<g ref="char:EOLhyphen"/>STIES Gariſon and Forts of <hi>Kingſton</hi> upon <hi>Hull.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HESE Notes were taken in your <hi>Lord<g ref="char:EOLhyphen"/>ſhips</hi> Gariſon, and threatned to be brought before you, in caſe I would not promiſe they
+<pb facs="tcp:97011:3"/>ſhould be forth-coming, and en<g ref="char:EOLhyphen"/>gage for their appearance. I did ſo, and I here humbly preſent them for their trial. If upon their ex<g ref="char:EOLhyphen"/>amination your <hi>Lordſhip</hi> ſhall find them guilty of any thing like <hi>He<g ref="char:EOLhyphen"/>terodox,</hi> or <hi>Diſloyal:</hi> let them be committed to <hi>
+                  <g ref="char:V">Ʋ</g>ulcan,</hi> who allows papers no <hi>Bail;</hi> But if their inte<g ref="char:EOLhyphen"/>grity ſhall appear, I humbly beg your Lordſhips paſs, that they may go abroad under your hono<g ref="char:EOLhyphen"/>rable name. For now every one is talking of their preferments, I would gladly the world ſhould know mine, which is to be,</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhips moſt humble, and moſt devoted ſervant, <hi>E. BOTELER.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:97011:3"/>
+            <head>To the Right Worſhipful <hi>CHRISTOPHER RICHARDSON,</hi> Eſq; MAYOR Of the Town of <hi>Kingſton</hi> ſuper <hi>H<g ref="char:V">Ʋ</g>LL:</hi> AND To the Aldermen his Bre<g ref="char:EOLhyphen"/>thren, who continued faith<g ref="char:EOLhyphen"/>ful during the late Defection. AND To the Officers, Burghers, and Free-men, that fear God, and honour the King in that Corporation.</head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E reade in that Reign,
+<note place="margin">
+                  <hi>Speed's Hiſt B.</hi> 9. <hi>ch.</hi> 18. <hi>p.</hi> 705.</note> and no Reign, of <hi>Edward</hi> the fifth, of a juggling Divine called <hi>John Shaw:</hi> a man of more fame than learning, (ſayes the ſtory) and of leſs conſcience, than either;
+<pb facs="tcp:97011:4"/>that he preached away his credit with the people, and loſt his honeſty, by decrying the Title of his lawful Prince, and magni<g ref="char:EOLhyphen"/>fying the pretence of <hi>Richard</hi> the then Pro<g ref="char:EOLhyphen"/>tector.
+<note place="margin">
+                  <hi>Foecunda culpae Se<g ref="char:EOLhyphen"/>cula.— Hor. Car. l.</hi> 3. <hi>Od.</hi> 6.</note> But our Times, big with miſchief, have brought forth a whole generation of ſuch <hi>Changlings;</hi> Creatures, that would cry up <hi>Richard Protector,</hi> and <hi>Oliver Protector,</hi> and any <hi>Protector,</hi> that would protect them in other mens Li<g ref="char:EOLhyphen"/>vings, and their own Sorceries and Se<g ref="char:EOLhyphen"/>ditions; Things, ſitter for Steeples than Churches, as ſerving only to ſhew which way the wind ſtands: having <hi>Epheme<g ref="char:EOLhyphen"/>ram Religionem,</hi> (as <hi>Beza</hi> ſayes of <hi>Baldwinus</hi>) every day a new Religion. It is all I ſhall ſay for this poor piece, that it is honeſt.
+<note place="margin">Pſal. 45 1.</note> 
+               <hi>My heart indited a good matter, when I ſpake of the things which I made touching the King,</hi> the Anointed of the Lord, the rightful King, declared ſo by the joint ſuffrages of Heaven and Earth. And my comfort is, I never ſpake for any other, never worſhipped any Calf of the peoples making, never bow<g ref="char:EOLhyphen"/>ed to any golden image, never plaid the Ad<g ref="char:EOLhyphen"/>vocate for ill-gotten greatneſs, nor durſt miſplace the royal and renowned names of <hi>David</hi> and <hi>Solomon</hi> upon any proud and
+<pb facs="tcp:97011:4"/>inglorious Uſurper. So that you need not ſhame to ſhare in the Patronge of this Ser<g ref="char:EOLhyphen"/>mon; it is made Publick at your command, let it be made paſsable by your encourage<g ref="char:EOLhyphen"/>ment. Some of the male-contented Facti<g ref="char:EOLhyphen"/>on have been as unhanſome as they durſt in their diſcourſes of it: it is no more than I looked for,
+<note place="margin">Pſal, 45 5.</note> 
+               <hi>Gods arrows are ſharp in the heart of the Kings enemies,</hi> and no wonder then if their madneſs make them run over at mouth. <hi>You</hi> were pleaſed to treat it more ingenuouſly, and have got this requital, that in your candid reception of it, you have ſpoken your own Loyalty. And, give me leave to tell you to your honor; thoſe acclamations, and thoſe expreſſions of joy which came from your hearts, and ſate up<g ref="char:EOLhyphen"/>on your countenances on that day, have given the world ſuch an occount of you: that you have ſecured your credit with the Ages to come, and ſweetned the name of your Town, which before was ill-ſented all the Nation o<g ref="char:EOLhyphen"/>ver. May this opening your hearts (in ſome good meaſure) compound for the ſhut<g ref="char:EOLhyphen"/>ting your gates! May your Town, a long while (alas!) torn in pieces by <hi>Pulpit-Granado's,</hi> now at length be as <hi>Hieruſalem,</hi>
+               <note place="margin">Pſa. 122 3 Verſ. 6, 7.</note> 
+               <hi>a City that is at unity in it ſelf! Let them proſper that love you! Let peace be
+<pb facs="tcp:97011:5"/>within your Walls, and plenteouſneſs within your borders!</hi>
+               <note place="margin">Pſal. 144.12.</note> That your <hi>ſons may grow up as young plants:</hi> and that your <hi>daughters may be as the poliſhed corners of the Temple.</hi>
+               <note place="margin">Verſ. 13.</note> That your <hi>Gar<g ref="char:EOLhyphen"/>ners may be full, affording all manner of ſtore.</hi>
+               <note place="margin">Verſ. 14.</note> 
+               <hi>That there be no decay, no lead<g ref="char:EOLhyphen"/>ing into captivity, and no complaining in your ſtreets.</hi>
+               <note place="margin">Iſa. 23 8.</note> 
+               <hi>That</hi> your <hi>Merchants may be Princes, and your Trafiquers the hono<g ref="char:EOLhyphen"/>rable of the Earth.</hi>
+               <note place="margin">Ezek. 27.25.</note> That the <hi>Ships</hi> may <hi>ſing of you,</hi> and you may be made <hi>very glo<g ref="char:EOLhyphen"/>rious in the midſt of the Seas.</hi> May your happineſs out-meaſure your hopes, and your welfare exceed all poſſible votes of,</p>
+            <closer>
+               <signed>Your moſt obliged ſervant, E. BOTELER.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:97011:5"/>
+            <head>In Concionem politiſſimam, ad Excellentiſſi<g ref="char:EOLhyphen"/>mum Authorem Dominum <hi>Edoardum Botelerium.</hi>
+            </head>
+            <lg>
+               <l>NOn pius è Roſtris furor hic denunciat arma,</l>
+               <l>Clamat &amp; intrepidè Sit maledicta <hi>Meros.</hi>
+               </l>
+               <l>Non hîc <hi>Stentoreâ</hi> celebratur voce <hi>Farellus,</hi>
+               </l>
+               <l>
+                  <hi>Alcarona</hi> tibi nullus habetur honos.</l>
+               <l>
+                  <hi>Chriſtiadûm</hi> namque arma Preces; fruitur patiendo,</l>
+               <l>Non vi, non armis ſacra ſerenda fides.</l>
+               <l>I, fuge ferratâ <hi>Bellonae</hi> caſſide tecta</l>
+               <l>Relligio; tantis prodigioſa malis.</l>
+               <l>At tandem noſtris tu gratior advenis oris,</l>
+               <l>Pax redit auſpiciis dum, <hi>Botelere,</hi> tuis.</l>
+               <l>Secula dum renovas, depingens aurea rurſus</l>
+               <l>Tempora; foelicis flumine Rhetorices.</l>
+               <l>Dum <hi>Caáuciferi</hi> ſic polles arte, loquentem</l>
+               <l>Ut te <hi>Battus</hi> amet, nec ſua verba crepet.</l>
+               <l>Scilicet haud melius citharâ divinior <hi>Orpheus</hi>
+               </l>
+               <l>Advocat in <hi>Thebas</hi> ſaxa animata ſuas;</l>
+               <l>Quàm tua divinae revocat facundia linguae</l>
+               <l>Errantem; eloquio ferrea corda domas.</l>
+               <l>Reddis &amp; <hi>Angligenis</hi> Regem; redduntur &amp; ipſi</l>
+               <l>Regi, dum clarum dat diadema Deus.</l>
+               <l>Ex <hi>Ariadneo</hi> regum nam ducta corona</l>
+               <l>Sydere, grande <hi>Jovis,</hi> non leve plebis opus.</l>
+               <l>Reddita &amp; <hi>Hullae</hi> ſibi tandem, dum Roſtra perornas</l>
+               <l>Quae<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <hi>Rebellis</hi> erat, <hi>Regia</hi> rurſus erit.</l>
+            </lg>
+            <closer>
+               <signed>Amiciſſimo &amp; meritiſſimo viro accinebat <hi>H. CORBET. M.D.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:97011:6"/>
+            <head>In concionem Die Regio <hi>Kingſtoniae</hi> ſu<g ref="char:EOLhyphen"/>per <hi>Hull</hi> Reverendo Viro D. <hi>Edoardo Botelerio</hi> Rectore <hi>Wintringhamienſi</hi> habitam.</head>
+            <lg>
+               <l>
+                  <hi>ANglica</hi> Regales viſunt Capitolia pompae</l>
+               <l>At<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> triumpham is vox ſonat alma Ducis:</l>
+               <l>Sceptra tenet, mollit<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> animos Rex <hi>Carolus,</hi> iras</l>
+               <l>Temperat: hunc laetum dicite ſêcla diem.</l>
+               <l>Ad reſtim neſtrae redeunt cum res; fera tellus</l>
+               <l>In Chaos antiquum jam ruitura, viget;</l>
+               <l>Diſcordes animos concordi pace ligavit</l>
+               <l>
+                  <hi>Amneſtia</hi> boni Regis: &amp; ira fugit.</l>
+               <l>Nulla manet frontis unbecula, nulla minarum</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>ox: hec placato quis miſer eſſe potest?</l>
+               <l>Nuncius ut Regis, gratus <hi>Caducifer</hi> alti</l>
+               <l>Praeco Dei n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bis en <hi>Botelerus</hi> adeſt!</l>
+               <l>Tu facunde tuà formâsti voce Rebelles;</l>
+               <l>Hinc parere placet, dispicet inde nefas.</l>
+               <l>Et nos ſupplicitèr prosternimur (eccè) Leoni</l>
+               <l>Pugna ſuum ſinem (procidit hoſtis) habet.</l>
+               <l>Non noſtri juris ſuimus <hi>Kingſtonia;</hi> &amp; inde</l>
+               <l>A<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tu Regis, <hi>Regia Villa</hi> ſumus.</l>
+               <l>Edicto aſtautes arrectis auribus, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+               </l>
+               <l>Tangamus proni regia ſceptra manu</l>
+               <l>
+                  <hi>Carolus</hi> Ille Deus nobis haec otia fecit;</l>
+               <l>
+                  <hi>Rex vivat! vivat!</hi> ſecula laeta ferat.</l>
+               <l>Ingenioſe lyriâ perge incantare rebelles</l>
+               <l>Artibus ingenuis ingenioſe lyrae.</l>
+            </lg>
+            <closer>
+               <signed>JO. SHORE Regiae Scholae apud <hi>Hullenſes</hi> Hyperdidaſcalus.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:97011:6"/>
+            <head>Ad virum ſpectatiſſimum Dominum <hi>Edoar<g ref="char:EOLhyphen"/>dum Botelerium</hi> de Concione ejus in In<g ref="char:EOLhyphen"/>auguratione Sereniſſimi Regis <hi>Caroli ſecundi Kingſtoniae</hi> ſuper <hi>Hull</hi> habitâ Menſis Aprilis die <hi>23. 1661.</hi>
+            </head>
+            <lg>
+               <l>MAgnum vade liber Monumentum parve diei,</l>
+               <l>Quem nos Miramur, <hi>fecit &amp; ipſe Deus:</hi>
+               </l>
+               <l>Cujus tu pompam ſêclis Memorato futuris,</l>
+               <l>Vivus, dum pereunt caetera, teſtis eris.</l>
+               <l>
+                  <hi>Rege</hi> Coronato Noſtri Spectacla triumphi</l>
+               <l>Te ſine tot vacua &amp; ſigna caduca forent.</l>
+               <l>Sed tu perpetuas ſolennia noſtra trophaea,</l>
+               <l>
+                  <hi>Kingstoniae<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </hi> palám gaudia plena refers.</l>
+               <l>Splendida ſuccincté magnalia <hi>Regis</hi> adumbras,</l>
+               <l>Plurima ſic cives &amp; facienda doces.</l>
+               <l>Furca ſcelus capiat maleſanum, reſte<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> dignum,</l>
+               <l>Quem tua non reducem pagina compta dabit.</l>
+               <l>Aurea ſubjectis ſis ſemper regula fidis,</l>
+               <l>Quâ tuto poſſint vivere, quâ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> mori.</l>
+               <l>Tu ſimul <hi>Hulla</hi> fidem, quam debes Regia, Regi</l>
+               <l>Praeſtare hinc diſce, &amp; <hi>nominis eſto memor.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>JOHANNES CATLYN <hi>Scholae publ.</hi> Hullenſis <hi>Hypodidaſcalus.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:97011:7"/>
+            <head>To my dear Friend M<hi rend="sup">r</hi> 
+               <hi>EDWARD BOTELER,</hi> Upon his Excellent SERMON.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <lg>
+               <l>YO<g ref="char:V">Ʋ</g> have redeem'd our Pulpit from the Crimes,</l>
+               <l>Faction, and Treaſon, in thoſe worſer times,</l>
+               <l>Had ſtain'd it with; and let them clearly ſee,</l>
+               <l>The diff'rence betwixt that, and Loyalty.</l>
+               <l>Enforc't by ſuch good Language, and just Right,</l>
+               <l>The rigid <hi>Presbyter's</hi> your <hi>Proſelyte.</hi>
+               </l>
+               <l>Gain'd by this pow'rful Sermon, all confeſs,</l>
+               <l>They ne'r ſaw beauteous Truth in richer Dreſs.</l>
+               <l>Give us more Sermons then; and we ſhall own,</l>
+               <l>Though we Keep Guards; yet you will <hi>take tho Town.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>F. W.</hi> An Officer in the Gariſon of <hi>Hull.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:97011:7"/>
+            <head>GODS GOODNESSE IN Crowning THE KING.</head>
+            <epigraph>
+               <q>
+                  <bibl>PSAL. 21.3.</bibl>
+                  <p>For thou preventeſt him with the bleſſings of goodneſs: thou ſet<g ref="char:EOLhyphen"/>teſt a Crown of pure gold on his head.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>E ſeem this day to be in a condition, much like that of the Di<g ref="char:EOLhyphen"/>ſciples, at the ſame time poſed with, and poſſeſſed of, that in<g ref="char:EOLhyphen"/>credible kind of truth of the Reſurrection: of whom it is ſaid,
+<pb n="2" facs="tcp:97011:8"/>That <hi>they believed not for joy,</hi>
+               <note place="margin">Luk. 24.41.</note> 
+               <hi>and wondered.</hi> We have lived to ſee a Day, would have puzzeled an active faith to look for, and conſidered in all its cir<g ref="char:EOLhyphen"/>cumſtances, do not yet, without ſome pleaſing kind of difficulty, believe it, though we ſee it.</p>
+            <p>A matchleſs day: ſecond to none, unleſs that which the Scripture ſaith knew no equal:
+<note place="margin">Joſh 10.12, 13, 14.</note> when <hi>Joſhuah,</hi> comman<g ref="char:EOLhyphen"/>ding in Heaven and Earth both at once, gave check to the Sun, and put that Gi<g ref="char:EOLhyphen"/>ant to a ſtand in the face of the amazed World.</p>
+            <p>We may ſay, this day, as the four Lepers, ſurprized with joy, at the ſud<g ref="char:EOLhyphen"/>den vaniſhing and diſappearance of the <hi>Syrians</hi> Army.
+<note place="margin">2 King. 7.9.</note> 
+               <hi>This day is a day of good tidings,</hi>
+               <note place="margin">Luk. 19.40.</note> 
+               <hi>and we ſhould not do well to hold our peace.</hi> Should we hold our peace (as our <hi>Lord</hi> ſaid to the <hi>Phariſees</hi> troubled at the triumphing of the <hi>Diſci<g ref="char:EOLhyphen"/>ples) the ſtones would immediately cry out.</hi> Stones, and timber and all would cry out upon us, for our great ingrati<g ref="char:EOLhyphen"/>tude. Some of that Leaven we have ſtill, (it is to be feared) or worſe, ſome that are ſcarcely pleaſed with the pomp and ſplendor, the joyes and acclamations
+<pb n="3" facs="tcp:97011:8"/>of this day. Since there have been <hi>Kings,</hi> there have been ſuch. At <hi>Saul</hi>'s inauguration, when the people ſhouted, and ſaid, <hi>God ſave the King; the men whoſe hearts God had touched,</hi>
+               <note place="margin">1 Sam. 10.24, 26, 27.</note> 
+               <hi>went with him; but the children of</hi> Belial <hi>deſpiſed him.</hi>
+               <note place="margin">2 Sam. 18.32.</note> Let ſuch <hi>enemies of my Lord the King, and all that riſe againſt him to do him hurt, be as that young man</hi> Ab<g ref="char:EOLhyphen"/>ſalom. But, <hi>Go forth,</hi>
+               <note place="margin">Cant. 3.11.</note> 
+               <hi>O ye daughters of</hi> Zion, <hi>and behold King</hi> Solomon <hi>with the Crown wherewith his Mother Crowned him in the day of his Eſpou<g ref="char:EOLhyphen"/>ſals, and in the day of the gladneſs of his heart. The King ſhall joy in thy ſtrength, O Lord:</hi>
+               <note place="margin">V. 1. <hi>hujus</hi> Pſ.</note> 
+               <hi>and in thy ſalvation how greatly ſhall he rejoice. Thou haſt given him his hearts deſire, and haſt not with-holden the requeſt of his lips. For thou preventeſt him with the bleſſings of goodneſs: thou ſetteſt a Crown of pure gold upon his head.</hi>
+            </p>
+            <p>Before we come to the Text, Method commands me to diſingage it from ſome connexion. And that muſt be done by caſting a glance (it ſhall be but a glance) on the foregoing <hi>Pſalm.</hi> It is ſpent in prayer for the <hi>King,</hi> was pen'd by <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> and by him committed to the Pre<g ref="char:EOLhyphen"/>fect
+<pb n="4" facs="tcp:97011:9"/>of his Muſick, as a Form to ſolicit God with, for his preſervation and deli<g ref="char:EOLhyphen"/>verance in troublous times, and dayes of danger. This is evident to any that reads the <hi>Pſalm,</hi> whoſe cloſe is (for we cannot ſpare time to look further) <hi>Save Lord, let the King hear us when we call.</hi> Or as the <hi>Seventy two</hi> Interpreters; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. With which agree the <hi>Arabick, Ethiopick,</hi> and <hi>Apollina<g ref="char:EOLhyphen"/>rius:</hi> and is conceived, by the Learned <hi>Doctor Hamond,</hi>
+               <note place="margin">
+                  <hi>Paraphr. on the Pſ. p.</hi> 118.</note> of invaluable memo<g ref="char:EOLhyphen"/>ry, to be the place whence that petition in our Liturgy with the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, were taken, <hi>O Lord, ſave the King, and mercifully heare us when we call upon thee.</hi>
+            </p>
+            <p>And removing your eye from that <hi>Pſalm</hi> to <hi>this,</hi> you'll find <hi>this</hi> to ſtand as a <hi>Taley</hi> to the former, containing a Form of praiſe in return of the mercies there prayed for. What the Church begged of God in the foregoing, they bleſs him for the receit of in this <hi>Pſalm.</hi> They are none of thoſe Orators whom affliction only makes ſo; that never cry but under the laſh, nor lift up their hands to God, but when he layes his hand up<g ref="char:EOLhyphen"/>on them. Such as the Prophet tells us
+<pb n="5" facs="tcp:97011:9"/>of, <hi>Lord,</hi>
+               <note place="margin">Iſa. 26.16.</note> 
+               <hi>in trouble have they viſited thee, they poured out a prayer when thy chaſtening was upon them.</hi> But even now when God hath remembred them, they will not forget him. Now they are paſt danger, they are not paſt duty. Now they are ſet (as it were) out of Gun-ſhot, they ſet their hearts, and tune their ſpirits to thankſgiving. To beg of God when we are empty, may ſpeak faith in the heart; but to bleſs him when we are full, is the breathing of a moſt excellent ſpirit.</p>
+            <p>Our Text then, is part of that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or Triumphant Song, ſung by the <hi>Jews</hi> in acknowledgement of God's goodneſs to <hi>David their King,</hi> and in him to the whole Kingdom, Polity, or Com<g ref="char:EOLhyphen"/>mon-wealth of <hi>Iſrael.</hi>
+            </p>
+            <p>See here how Loyalty will concern it ſelf in their Princes mercies. His pre<g ref="char:EOLhyphen"/>ſervation is their praiſe, and they reckon themſelves ſafe in his deliverance. They ſeek not his ruine, but rejoice in his hap<g ref="char:EOLhyphen"/>pineſs. They purſue not his Death, but celebrate his incolumity. It can be no pleaſure, elſe I might here recog<g ref="char:EOLhyphen"/>niſe the contrary actings of a generation worſe than <hi>Jews</hi> among us, who have
+<pb n="6" facs="tcp:97011:10"/>attained ſuch a height of Villany, that ſober Poſterity will bluſh at it, if they can believe it. The remembrance of it, puts the poor Proteſtant Church, at this day, to that ſad expoſtulation of <hi>Ta<g ref="char:EOLhyphen"/>mar,</hi>
+               <note place="margin">2 Sam. 13.13. 2 Sam. 1.19, 20.</note> 
+               <hi>I, whither ſhall I cauſe my ſhame to go? The Beauty of</hi> Iſrael <hi>was ſlain upon the high place.</hi> O, <hi>tell it not in</hi> Gath, <hi>publiſh it not in the ſtreets of</hi> Askelon: <hi>leſt the daughters of the</hi> Phi<g ref="char:EOLhyphen"/>liſtines <hi>rejoice, leſt the daughters of the uncircumciſed triumph.</hi> Well fare the memory of this loyal people here, that thus complicate their <hi>King's</hi> intereſt with their own. Faithful Subjects will look on it as their duty, to pray, and praiſe God for their Princes welfare: and think the beſt way to ſecure themſelves, is to imbarque all their concerns in the ſame bottom with him. Such a Sub<g ref="char:EOLhyphen"/>ject was <hi>Ittai</hi> the <hi>Gittite:</hi>
+               <note place="margin">2 Sam. 15.21.</note> 
+               <hi>As the Lord liveth, and as my Lord the King liveth, ſurely in what place my Lord the King ſhall be, whether in death or life, even there alſo will thy ſervant be.</hi> Such Subjects were the men of <hi>Judah,</hi> who, with their beloved <hi>Joſiah,</hi>
+               <note place="margin">Lam. 4.20. Ch. 5.15, 16.</note> loſt the very <hi>breath of</hi> their <hi>noſtrils. The joy of</hi> their <hi>hearts.</hi> And <hi>the crown from their heads.</hi>
+               <pb n="7" facs="tcp:97011:10"/>Such the men of <hi>Iſrael</hi> in this Text and <hi>Pſalm,</hi> whoſe concern and welfare is ſo convolved, ſo one with their Kings: that they ſtand, and fall: they pray and praiſe together: they ſuffer in his di<g ref="char:EOLhyphen"/>ſtreſs, and his flouriſhing Crown, is their Crown of rejoicing: <hi>For thou preven<g ref="char:EOLhyphen"/>teſt him with the bleſſings of goodneſs: thou ſetteſt a Crown of pure gold on his head.</hi>
+            </p>
+            <p>In the Text we have the great and happy Argument of the day. The <hi>Con<g ref="char:EOLhyphen"/>ſervation,</hi> and <hi>Coronation</hi> of the <hi>King.</hi>
+            </p>
+            <p n="1">1. The <hi>King's Conſervation: Thou preventeſt him with the bleſſings of good<g ref="char:EOLhyphen"/>neſs.</hi>
+            </p>
+            <p n="2">2. The <hi>King's Coronation: Thou ſetteſt a Crown of pure gold on his head.</hi> Them two. For I would not mince the Text, but divide it.</p>
+            <div type="part">
+               <p>We'll begin where the happineſs of this day began, at his <hi>Conſervation, Thou preventeſt him with the bleſſings of goodneſs.</hi>
+               </p>
+               <p>And here are three expreſſions which ſet up and extoll the mercy, every one carrying it higher than other.</p>
+               <p n="1">1. <hi>They are bleſſings.</hi>
+               </p>
+               <p n="2">2. <hi>Thoſe bleſſings are of goodneſs.</hi>
+               </p>
+               <pb n="8" facs="tcp:97011:11"/>
+               <p n="3">3. <hi>That goodneſs is preventing: Thou preventeſt him with the bleſſings of goodneſs.</hi>
+               </p>
+               <div n="1" type="section">
+                  <p n="1">1. <hi>They are bleſſings. In benedicti<g ref="char:EOLhyphen"/>onibus.</hi> The word hath a peculiar ſig<g ref="char:EOLhyphen"/>nification when it referres to God. In its own ſtrictneſs, it imports no more than to praiſe, or wiſh, or ſpeak well. Mens bleſſings are with the tongue only. But <hi>Dei bene dicere eſt bene facere,</hi> ſayes <hi>A Lapide.</hi>
+                     <note place="margin">
+                        <hi>Comm. in Deut. p.</hi> 1012.</note> Gods bleſſings come from his heart by his hand: for him to ſpeak, is to give, and make good a bleſſing.</p>
+                  <p>Bleſſings, in God's ſenſe, denote, <hi>Rea<g ref="char:EOLhyphen"/>lity, Plenty.</hi>
+                  </p>
+                  <p n="1">1.
+<note place="margin">Lorinus in Loc.</note> 
+                     <hi>Reality.</hi> They are bleſſings indeed. <hi>Non rem fucatam donat.</hi> He gives not gaudy nothings. They are not appariti<g ref="char:EOLhyphen"/>ons,
+<note place="margin">Mat. 4.9.</note> ſuch as Satan profered our Saviour. They are not umbrages, but ſubſtances: not ſeeming, but ſure mercies. We may ſay,
+<note place="margin">Num. 22.6.</note> as <hi>Balak</hi> to <hi>Balaam, I wot that he whom thou bleſſeſt is bleſsed;</hi> and add what <hi>Iſaac</hi> ſaid of his ſon <hi>Jacob, Yea, and he ſhall be bleſſed.</hi>
+                     <note place="margin">Gen. 27.33.</note> Such are the <hi>Kings</hi> bleſſings in the Text, of the ſurer ſort, bleſſings in truth, and in being. All are not bleſſings that ſeem ſo. Men may be full of enjoyments, and yet em<g ref="char:EOLhyphen"/>pty
+<pb n="9" facs="tcp:97011:11"/>of bleſſings.
+<note place="margin">Mal. 2.2. Hoſ. 13.11</note> God can even <hi>curſe bleſſings. Dedi Regem in furore: I gave them a King in my wrath.</hi> I, and a <hi>Parliament</hi> in his wrath. And an <hi>Army</hi> in his wrath. And we may have peace in wrath, and plenty in wrath, and health, and life, and all in wrath, and to do us hurt. <hi>Judas</hi> his money was no bleſſing. <hi>Dives</hi> his pomp and delicacies was no bleſſing. <hi>Achitophel</hi>'s wiſdom was no bleſſing. <hi>Saul's</hi> Kingdom was no bleſſing. But even the troubles, the ſufferings, the dangers of the <hi>King,</hi> ſhall become bleſſings to him;
+<note place="margin">Prov. 1.32</note> whil'ſt <hi>the proſperity of fools ſhall deſtroy them.</hi> Reality; that firſt.</p>
+                  <p n="2">2.
+<note place="margin">
+                        <hi>Lorinus in Loc. A Lap. Com. in Num. p.</hi> 788. Gen. 27.28.</note> 
+                     <hi>Plenty.</hi> God's bleſſings make God's plenty (as we uſe to ſpeak) <hi>Be<g ref="char:EOLhyphen"/>nedictio copioſam bonorum largitionem ſig<g ref="char:EOLhyphen"/>nificat.</hi> Bleſſings ſpeak abundance, all things in one word: <hi>The fatneſs of the Earth, and the dew of Heaven.</hi> The treaſures of both worlds are laid up in it. When God ſaid,
+<note place="margin">Gen. 17.16.</note> 
+                     <hi>I will bleſs Sa<g ref="char:EOLhyphen"/>rah,</hi> it immediately follows, <hi>ſhe ſhall be a Mother of Nations, Kings of people ſhall be of her. Bleſſings</hi> is a word with a womb, the fruit of it ſtocks the world.</p>
+                  <pb n="10" facs="tcp:97011:12"/>
+                  <p>Let us aſcend the Heavens, and take ſuch a ſcantling of them, as mortality is capable of: and we ſhall find <hi>Bleſſings</hi> to be the ſole ornament, and furniture of thoſe Manſions of peace and immortali<g ref="char:EOLhyphen"/>ty. The ſtore of the New <hi>Hieruſalem</hi> is all bleſſings:
+<note place="margin">Rev. 22.1, 2.</note> with this water runs that <hi>pure river, clear as Chryſtal, pro<g ref="char:EOLhyphen"/>ceeding out of the Throne of God;</hi> this is the fruit of the <hi>tree of life.</hi> There's no need of <hi>Sun,</hi> or <hi>Moon,</hi> or <hi>Light,</hi> or <hi>Temple,</hi> for <hi>Bleſſing</hi> is all theſe. There, the place is <hi>Bleſſings:</hi> the company <hi>Bleſ<g ref="char:EOLhyphen"/>ſings:</hi> the employment <hi>Bleſſings.</hi> The glorious Inhabitants thereof hear no o<g ref="char:EOLhyphen"/>ther voice, ſee no other viſion, ſpeak no other language, but, <hi>Bleſſing, honor, glory,</hi>
+                     <note place="margin">Ch. 5.13.</note> 
+                     <hi>and power, be unto him that ſitteth upon the Throne, and unto the Lamb for ever and ever.</hi>
+                  </p>
+                  <p>Let us look below, and what takes up theſe ſublunary regions, but a croud of <hi>bleſſings</hi> as thick as they can ſtand, ran<g ref="char:EOLhyphen"/>ged into orders, and ſucceſſion, to ſerve man, and ſpeak the glory of the great Creator?
+<note place="margin">Pſal. 104.24.</note> 
+                     <hi>O Lord, how manifold are thy works? in wiſdom haſt thou made them all; the Earth is full of thy riches</hi>
+                  </p>
+                  <pb n="11" facs="tcp:97011:12"/>
+                  <p>Bleſſings ſpeak plenty. That's a ſe<g ref="char:EOLhyphen"/>cond. But that's not all.</p>
+                  <p>There are ſome particular bleſſings of the <hi>King,</hi> which the people deſire here to commemorate, and make recogniti<g ref="char:EOLhyphen"/>on of with thankfulneſs. Among many, theſe three.</p>
+                  <p>
+                     <hi>Victory. Vivacity. Safety.</hi>
+                  </p>
+                  <p n="1">1. <hi>Victory.</hi> Many victories; for <hi>Da<g ref="char:EOLhyphen"/>vid</hi> entered the Camp betimes,
+<note place="margin">1 Sam. 17.33.</note> was <hi>A man of warre from his youth;</hi> baffled, and ſlew him that was called ſo. He had <hi>Victricem dextram,</hi> a conquering hand; which did ſo inrich his repute, and heighten his name, that he became the very Mirth and Muſick of <hi>Iſrael;</hi> The <hi>women dancing and ſinging,</hi> and ecchoing one to another,
+<note place="margin">Ch. 18.7.</note> Saul <hi>bath ſlain his thouſands, and</hi> David <hi>his ten thouſands.</hi> Particularly the Victory which <hi>this,</hi> and the foregoing <hi>Pſalm</hi> re<g ref="char:EOLhyphen"/>ferre to, and which is the bleſſing cele<g ref="char:EOLhyphen"/>brated: was that of <hi>David</hi>'s Armies a<g ref="char:EOLhyphen"/>gainſt the forces of the children of <hi>Am<g ref="char:EOLhyphen"/>mon,</hi> with the Auxiliaries of <hi>Syria</hi> un<g ref="char:EOLhyphen"/>der the command of their Captain Ge<g ref="char:EOLhyphen"/>neral <hi>Shobach.</hi> Of which you have a full account, 2 <hi>Sam.</hi> 10. and of which more afterwards.</p>
+                  <pb n="12" facs="tcp:97011:13"/>
+                  <p n="2">2. <hi>Vivacity.</hi> Length of dayes. Of which, <hi>Verſ.</hi> 4. <hi>He asked life of thee, and thou gaveſt it him, even length of dayes for ever and ever.</hi> Some victo<g ref="char:EOLhyphen"/>ries coſt dear, are bought with the life of a <hi>King,</hi> or <hi>General,</hi> and are little leſs than the undoing of the Conquerors, they loſe by winning. God ſometimes takes his people from the poſſeſſion of bleſſings, even when they are entring up<g ref="char:EOLhyphen"/>on them. He did ſo with his ſervant <hi>Moſes,</hi> whom he cut off in the very con<g ref="char:EOLhyphen"/>fines of <hi>Canaan,</hi>
+                     <note place="margin">Deut. 34.4</note> 
+                     <hi>I have cauſed thee to ſee it with thine eyes, but thou ſhalt not go over thither.</hi> He did ſo with the il<g ref="char:EOLhyphen"/>luſtrious, hopeful, and moſt lamented, the late <hi>Duke</hi> of <hi>GLOCESTER,</hi> that immortal bloſſome, not to be mentioned without a preface of ſadneſs: who ſaw, but enjoyed little of the happineſs, of his royal Brothers, <hi>His moſt excellent Majeſties</hi> Reſtauration. But the King's bleſſings are lengthened with his life. He hath victory, and life to uſe and im<g ref="char:EOLhyphen"/>prove it.
+<note place="margin">1 King. 3.11.</note> God hath given him the life of his enemies, and his own life too. Which are two of the four moſt eligible bleſſings, ſo accounted by God himſelf, who beſt knows the worth of his own
+<pb n="13" facs="tcp:97011:13"/>bleſſings, in his comprobation of <hi>Solo<g ref="char:EOLhyphen"/>mons</hi> choice, 1 <hi>Kings</hi> 3.11. Life is that bleſſing in Wiſdom's right-hand, which taketh place of riches and honor. It is the greateſt of earthly bleſſings. <hi>Fa<g ref="char:EOLhyphen"/>cito debilem pede, facito debilem manu, vita dum ſupereſt benè eſt.</hi> Men will hold it upon hard terms, they are loth to part with it even when the dayes are come, <hi>they have no pleaſure in them.</hi>
+                     <note place="margin">Eccl. 12.1.</note> All look on it as their All, <hi>Kings</hi> moſt of all. They are moſt commonly at a heighth of outward glory, full of bleſ<g ref="char:EOLhyphen"/>ſings: and they deſire nothing ſo much as life to enjoy them. We read of but one life lengthened in Scripture; and it was a <hi>Kings.</hi>
+                     <note place="margin">2 King. 20 6. Dan. 2.4. Ch. 3.9.</note> And the <hi>Caldeans</hi> look<g ref="char:EOLhyphen"/>ed on it as the beſt piece of Courtſhip that they could uſe to <hi>Nebuchadnezzar, O King, live for ever!</hi> There is no<g ref="char:EOLhyphen"/>thing ſo much a bleſſing to a <hi>King</hi> on this ſide the Kingdom of Heaven, as his life.</p>
+                  <p>And have not we cauſe to remember, to remember with eternal thankfulneſs, how God gave our moſt <hi>Dread Soveraign</hi> his life, gave it him at <hi>Worceſter,</hi> even then when a thouſand deaths look'd him in the face to take it away? When the
+<pb n="14" facs="tcp:97011:14"/>
+                     <hi>proud waters</hi> were ready to <hi>go over his ſoul.</hi>
+                     <note place="margin">Pſal. 124.5.</note> When the inſulting enemy ſaid, <hi>God hath forſaken him:
+<note place="margin">Pſal. 71.11.</note> perſecute him, take him, for there is none to deliver him;</hi> even then did his mighty hand, and ſtretched-out arm, take Rebellion rampant by the throat,
+<note place="margin">Pſal. 22.20.</note> and <hi>delivered his ſoul from the ſword: his darling</hi> (his only one, according to the <hi>Hebrew) from the power of the dog.</hi>
+                     <note place="margin">Pſal. 113 8.</note> 
+                     <hi>That he might ſet him with Princes: even with the Prin<g ref="char:EOLhyphen"/>ces of his people.</hi>
+                     <note place="margin">Iſa. 55.3.</note> That he might give him thoſe ſure mercies of <hi>David. His Throne ſhall be as the Sun before me.</hi>
+                     <note place="margin">Pſal. 89.36, 37.</note> 
+                     <hi>It ſhall be eſtabliſhed for ever as the Moon: and as a faithful witneſs in Hea<g ref="char:EOLhyphen"/>ven.</hi> But of that more anon. <hi>Vivacity,</hi> that's the ſecond of thoſe bleſſings the people here own with thankfulneſs for their <hi>King.</hi>
+                  </p>
+                  <p n="3">3. <hi>Safety.</hi> Ver. 5. <hi>His glory is great in thy ſalvation. And in thy ſalvation how greatly ſhall he rejoice,</hi> Ver. 1. God chargeth his providence in a more pecu<g ref="char:EOLhyphen"/>liar manner with Kings. <hi>Touch not mine Anointed.</hi> It is a great bleſſing, to have our bleſſings ſecured to us. Fear of lo<g ref="char:EOLhyphen"/>ſing, leſſens a bleſſing. How low ran the rate of earthly bleſſings among us,
+<pb n="15" facs="tcp:97011:14"/>during the late times of trouble; when men knew not how to ſecure them from the hands of Rapine, nor free them from thoſe artificial and finer kinds of violence which were in uſe among us? It is the bleſſing of our bleſſings when they are made ſafe to us: And we are then happy, when we are fortified by the ſtrength of God, and made impreg<g ref="char:EOLhyphen"/>nable by the power of the moſt high. There's no ſecurity like Omnipotency, and thoſe Walls muſt needs be inexpug<g ref="char:EOLhyphen"/>nable which are made up of his Salvati<g ref="char:EOLhyphen"/>on. That's the <hi>King's</hi> condition here, Lord, thou haſt ſoſpitated his perſon, and eſtabliſhed his Throne, and ſecured his Kingdom.
+<note place="margin">Pſal. 5 11, 12.</note> 
+                     <hi>His glory is great in thy ſalvation.</hi> And therefore, <hi>Let all thoſe that put their truſt in thee, rejoice: let them ever ſhout for joy, becauſe thou de<g ref="char:EOLhyphen"/>fendeſt them: let them alſo that love thy name, be joyful in thee. For thou, Lord, wilt bleſs the righteous, with favour wilt thou compaſs him as with a ſhield.</hi>
+                  </p>
+                  <p>Be that enough for the firſt expreſſi<g ref="char:EOLhyphen"/>on, which here heightens the mercy of the Kings Conſervation, <hi>In benedictioni<g ref="char:EOLhyphen"/>bus.</hi> With bleſſings.</p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="16" facs="tcp:97011:15"/>
+                  <p n="2">2. <hi>Thoſe bleſſings are of goodneſs. The bleſſings of goodneſs. In benedictionibus dulcedinis,</hi> the vulgar Latin renders it. With the bleſſings of ſweetneſs and de<g ref="char:EOLhyphen"/>light. <hi>Bleſſings</hi> that will gratifie the deſires of his ſoul, and go down with a reliſh.
+<note place="margin">Pſal. 34.8.</note> 
+                     <hi>He ſhall taſte and ſee how good the Lord is.</hi> He ſhall not only have <hi>bleſſings</hi> of defence, but delight: mer<g ref="char:EOLhyphen"/>cies, not only for neceſſity, but compla<g ref="char:EOLhyphen"/>cency. God ſhall gild his deliverance with the light of his countenance, and ſweeten his enjoyments with the experi<g ref="char:EOLhyphen"/>ences of his love. <hi>Thou preventeſt him with</hi> the ſweeteſt of <hi>bleſſings.</hi>
+                  </p>
+                  <p>
+                     <hi>In benedictionibus bonitatis:</hi> in St. <hi>Hierom</hi>'s words: with the bleſſings of goodneſs. And that goodneſs ſeems to have a double reference, either to the <hi>cauſe,</hi> or <hi>kind</hi> of <hi>bleſſings.</hi>
+                  </p>
+                  <p n="1">1. <hi>To the cauſe. Thou preventeſt him with the bleſſings of goodneſs.</hi> That is, Thy goodneſs is the cauſe, and ground: the fountain, and foundation of all his bleſſings. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, the word which the <hi>Seventy two Interpreters</hi> uſe in this place, ſpeaks benignity, and bleſſings of good<g ref="char:EOLhyphen"/>will. Lord, all the Kings bleſſings are the out-lets of thy goodneſs. That is,
+<pb n="17" facs="tcp:97011:15"/>the living and inexhauſtible fountain, from whence do flow all thoſe ſtreams which make glad the people of God. The ſpring of Love is in God's own ſelf. His bowels made the firſt motion of good to us, <hi>Thou art good,
+<note place="margin">Pſal. 119.68.</note> and doſt good.</hi> The goodneſs derived to us, is from a primitive goodneſs in himſelf. It is meerly and ſolely from his goodneſs, that we have any good. Alas! had we no goods, but what the purchaſe of our own merits brought in,
+<note place="margin">Ch. 3.17.</note> we ſhould be but like that conceited, <hi>Phanatick</hi> Church in the <hi>Revelations,</hi> ſay, (it may be) We are <hi>rich, and increaſed in goods, and have need of nothing:</hi> when indeed we are <hi>wretched, and miſerable, and poor, and blind, and naked. Tua ſunt omnia,</hi> ſayes <hi>King David,</hi> (when he and his Princes contributed ſo liberally to carry on the work of the Temple) <hi>All are thine.</hi> And the ſame <hi>King</hi> in the <hi>Text,</hi> hath nothing but what <hi>Goodneſs</hi> gives him. <hi>Goodneſs</hi> is Founder and Benefa<g ref="char:EOLhyphen"/>ctor and all. They are <hi>the bleſſings of goodneſs</hi> ſo as to their cauſe.</p>
+                  <p n="2">2. <hi>Of goodneſs, ſo as to their kind. In benedictionibus bonis:</hi> after the <hi>Cal<g ref="char:EOLhyphen"/>dee.</hi> With <hi>good bleſsings.</hi> Not as if
+<pb n="18" facs="tcp:97011:16"/>any bleſſings were other than good: but becauſe ſome bleſſings are better than o<g ref="char:EOLhyphen"/>ther. God hath choice of bleſſings. Some are of the greater, and ſome of the leſſer print. Now the King's bleſ<g ref="char:EOLhyphen"/>ſings are like himſelf, of the better ſort. <hi>Achſah</hi>'s portion:
+<note place="margin">Judg. 1.15</note> 
+                     <hi>Irriguum ſuperius, &amp; inferius.</hi> The <hi>upper ſprings,</hi> as well as the <hi>nether ſprings.</hi>
+                     <note place="margin">Gen. 44.12.</note> 
+                     <hi>Joſeph</hi>'s Brethren may have every man his <hi>money in his Sack:</hi> but the <hi>Cup</hi> is found <hi>with Benja<g ref="char:EOLhyphen"/>min.</hi>
+                  </p>
+                  <p>The <hi>King</hi> ſhall not be put off with coarſe and common mercies: but he ſhall have, <hi>Adipem frumenti,</hi> the fat<g ref="char:EOLhyphen"/>teſt, or fineſt of the wheat; and ſhall be ſatisfied with the very <hi>honey out of the rock</hi> of mercy.
+<note place="margin">Pſ. 81.16.</note> 
+                     <hi>Eum egregiis affeci<g ref="char:EOLhyphen"/>ſti beneficiis,</hi> is the appoſite, and ex<g ref="char:EOLhyphen"/>preſſive rendring of <hi>Caſtellio.</hi> Thou haſt beſtowed moſt eminent favours on him.
+<note place="margin">D. H. Par. in Loc. Muſc. in Loc.</note> Whom the incomparable <hi>Doctor Hamond,</hi> mentions and follows, para<g ref="char:EOLhyphen"/>phraſing it, All ſorts of the moſt valu<g ref="char:EOLhyphen"/>able mercies. <hi>In benedictionibus opti<g ref="char:EOLhyphen"/>mis,</hi> ſayes another. With the chief and choyceſt bleſſings. Such as are mentioned, <hi>Ver.</hi> 6. <hi>Thou haſt made him exceeding glad with thy countenance.</hi>
+                     <pb n="19" facs="tcp:97011:16"/>And that certainly is the beſt of bleſ<g ref="char:EOLhyphen"/>ſings, the one thing needful, the life of all the reſt. For, as if the Sun were a<g ref="char:EOLhyphen"/>way, it would be night for all the ſtars: So, if the face of God do not ſhine up<g ref="char:EOLhyphen"/>on us, all the glimmerings, and ſcintil<g ref="char:EOLhyphen"/>lations of creatures, cannot yield us the leaſt ſpark of true comfort.</p>
+                  <p>That I may leave this then: Let me beſpeak you in St. <hi>Paul</hi>'s language. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.
+<note place="margin">1 Cor. 12.31.</note> 
+                     <hi>Having ſuch choice of bleſsings, covet earneſtly the beſt gifts.</hi> Think it not enough to have a <hi>portion in this life.</hi> Take not up with the <hi>Blanks</hi> of the world, when the <hi>prize</hi> of ſpiritual bleſſings, and the riches of grace are ſet before you. Stoop not ſo low as earth; remember your ſouls came from Heaven. It is a baſſle put upon thoſe immortal ſubſtances, to take up in any thing leſs than Divine. You are the beſt of ſublunary Beings, and therefore 'bate nothing of ſuper<g ref="char:EOLhyphen"/>celeſtial bleſſings. Never bleſs your ſelves in any but the <hi>bleſſings of goodneſs.</hi>
+                  </p>
+                  <p>And that I may both ſpeak and ſpeed; let me commend their good<g ref="char:EOLhyphen"/>neſs to you under three valuable conſide<g ref="char:EOLhyphen"/>rations.</p>
+                  <pb n="20" facs="tcp:97011:17"/>
+                  <p n="1">1. <hi>They ſtay the ſoul:</hi> giving it the fill, and making up all the deſires of it. How craving doth every thing elſe leave the ſoul, but theſe <hi>bleſſings of goodneſs? Job</hi> ſaith of gold and ſilver,
+<note place="margin">Job 3.15.</note> that <hi>Prin<g ref="char:EOLhyphen"/>ces filled their houſes</hi> with it: but who can ſay they fill'd their hearts There is an inſufficiency and ſcantneſs in all theſe poor and pitiful goods of the lower world. Take them in their greateſt ex<g ref="char:EOLhyphen"/>tents and latitudes, they are incommen<g ref="char:EOLhyphen"/>ſurate, and diſproportion'd to a capaci<g ref="char:EOLhyphen"/>ous, and comprehenſive ſoul. Even where they are moſt, and in greateſt a<g ref="char:EOLhyphen"/>bundance,
+<note place="margin">
+                        <hi>Corn. à Lap. Com. in Iſa.</hi> 55.</note> they leave many cantons, and corners unfilled. <hi>Ludibrium ſunt oculo<g ref="char:EOLhyphen"/>rum, non pabulum animi.</hi> They fool the eyes, but fill not the heart. They make a great ſhew, but give little ſatiſ<g ref="char:EOLhyphen"/>faction. No, ſatisfaction cometh from another quarter. <hi>O ſatisfie us early with thy mercy!</hi>
+                     <note place="margin">Pſal. 90.14.</note> There is a ſatisfying ſweet<g ref="char:EOLhyphen"/>neſs that goes along with divine good<g ref="char:EOLhyphen"/>neſs, and with that alone. For <hi>he ſatiſ<g ref="char:EOLhyphen"/>fieth the longing ſoul,</hi>
+                     <note place="margin">Pſal. 107.9.</note> 
+                     <hi>and filleth the hungry ſoul with goodneſs.</hi> Theſe <hi>bleſ<g ref="char:EOLhyphen"/>ſings of goodneſs</hi> ſtay the ſoul's appetite and longing. That's the firſt.</p>
+                  <p n="2">2. <hi>They ſtay with the ſoul.</hi> They
+<pb n="21" facs="tcp:97011:17"/>ha' ſome laſt in them, they are durable bleſſings. They'll ſtand when the ſtars ſhall fall; and when the Heavens ſhall ſhrink up like a ſcroll, they will hold out meaſure with eternity. It abates the worth of all the good things of this life: that they are making haſte into nothing, and ſhall ſhortly diſappear. <hi>Riches</hi> (ſayes he that had ſo much of them that he was able to buy out all the Kings of his time) <hi>make themſelves wings,</hi>
+                     <note place="margin">Prov. 23.5.</note> 
+                     <hi>and ſtie away as an Eagle towards Heaven.</hi> Whilſt we are making them faſt with wax, with bills, and bonds: and think to make them ſure with bolts and barres, and locks and cheſts; even then are they making wings to ſlie away. Friends the neareſt of earthly comforts, that will ſtick by us to the laſt; even they meet with their <hi>non ultra,</hi> and when affecti<g ref="char:EOLhyphen"/>on hath commanded them to their laſt Office, and led them to the grave-ſide to drop a tear over our duſt; then hither ſhalt thou go, and no further. But the bleſſings of goodneſs, go through the very <hi>valley of the ſhadow of death,</hi>
+                     <note place="margin">Pſal. 23.4.</note> ſur<g ref="char:EOLhyphen"/>vive our funerals, ſtep over our graves, and meet us in our glory. They at<g ref="char:EOLhyphen"/>tend us in this life.
+<note place="margin">Pſal. 23.6.</note> 
+                     <hi>Surely goodneſs and
+<pb n="22" facs="tcp:97011:18"/>mercy ſhall follow me all the dayes of my life.</hi> And they expect us in the life to come.
+<note place="margin">Pſal. 31.19.</note> 
+                     <hi>O how great is thy goodneſs, which thou hast laid up for them that fear thee!</hi> They keep us company in both worlds. Thus the <hi>bleſſings of goodneſs</hi> ſtay with the ſoul, which is the ſecond piece of their goodneſs.</p>
+                  <p n="3">3. <hi>They ſtall not the ſoul.</hi> The ſweetneſs of grace dulls not the appetite after more; and it is impoſſible the weight of glory ſhould be a burden. Theſe <hi>bleſſings of goodneſs</hi> are like Man<g ref="char:EOLhyphen"/>na to the gatherers of it.
+<note place="margin">Exod. 16.18.</note> 
+                     <hi>He that ga<g ref="char:EOLhyphen"/>thered much, had nothing over.</hi> They both fill, and fit the cravings of the ſoul, and they ſatiate without a ſurfet. All our other goods (as we call them) may ſometime, or other, be evil to us. There may be, there have been caſes, in which men have had too much, of what we are apt to think we can never have enough.
+<note place="margin">Ch. 1.5.</note> The Mariners, in <hi>Jonah,</hi> caſt their Wares over-board. They are fraught with their own fears, and loſt if they caſt not away their gains. Is there any thing of more value? <hi>Light.</hi> A great comfort. A beam of the inviſi<g ref="char:EOLhyphen"/>ble brightneſs. The firſt-born of the
+<pb n="23" facs="tcp:97011:18"/>Creation of God. Yet <hi>Job</hi> hath a quarrel to it,
+<note place="margin">Ch. 3.20.</note> 
+                     <hi>Wherefore is light given to him that is in miſery?</hi> Is there any thing yet dearer? <hi>Life.</hi> The breath of the Creator, and being of creatures. And yet <hi>Rebecca</hi> finds her ſelf aggrieved with it, <hi>I am weary of my life,</hi>
+                     <note place="margin">Gen 27.46.</note> 
+                     <hi>becauſe of the daughters of Heth.</hi> Thus we nau<g ref="char:EOLhyphen"/>ſeate the ſweeteſt of earthly bleſſings, and they ſour in the very enjoyment, like <hi>Tamar</hi> in the arms of <hi>Amnon.</hi> But were theſe <hi>bleſſings of goodneſs</hi> ever out of date? were they ever impaired by a<g ref="char:EOLhyphen"/>ny time of evil? was ever condition ſo ſad, as to work them out of credit? It is impoſſible to put a caſe in which they are not good for us, and the worſe we, the better they are, and the more deſirable. When it is not in the united ſtrength, and combined power of crea<g ref="char:EOLhyphen"/>tures to help us, or do us good: then comes in their <hi>Qu,</hi> then we look at them as moſt beſteading. When we are be<g ref="char:EOLhyphen"/>ſet with evils, as deſtitute as our Pſal<g ref="char:EOLhyphen"/>miſt, <hi>I looked on my right-hand,</hi>
+                     <note place="margin">Pſal. 142.4.</note> 
+                     <hi>and beheld, but there was no man that would know me, refuge failed me: no man ca<g ref="char:EOLhyphen"/>red for my ſoul;</hi> then, then eſpecially do we ſeek out and ſue for them as moſt
+<pb n="24" facs="tcp:97011:19"/>ſeaſonable. <hi>Then,</hi> why is not the light of God's countenance given to him that is in miſery? <hi>Then,</hi> I am weary of my life for want of the face of God; if I have not his favour, what good ſhall my life do me? Earthly bleſſings are com<g ref="char:EOLhyphen"/>monly either ſo little they keep us in want, or ſo much they make us nauſeat: but to be ſo filled, that we neither lack nor loath, is the ſole and ſingular effect of the <hi>bleſſings of goodneſs;</hi> and nothing can do it, but what's of kin to Heaven. They complete, but clogg not: they ſtay, but ſtall not the deſires of the ſoul. That's the third commendation of their goodneſs.</p>
+                  <p>And be that enough for the ſecond expreſſion, heightening the mercy of the <hi>King's Conſervation;</hi> His bleſſings are of the beſt. <hi>In benedictionibus. Dul<g ref="char:EOLhyphen"/>cedinis. Bonis. Optimis.</hi> With the bleſ<g ref="char:EOLhyphen"/>ſings of goodneſs.</p>
+               </div>
+               <div n="3" type="section">
+                  <p>The third follows. That <hi>goodneſs</hi> is <hi>preventing: Thou preventeſt him with the bleſſings of goodneſs.</hi>
+                  </p>
+                  <p>And here a little variety in reading makes both pleaſure, and plenty of ob<g ref="char:EOLhyphen"/>ſervation.</p>
+                  <p>
+                     <hi>Quoniam praeveniſti.</hi> So the vul<g ref="char:EOLhyphen"/>gar
+<pb n="25" facs="tcp:97011:19"/>Latin. Foraſmuch as thou haſt pre<g ref="char:EOLhyphen"/>vented him.</p>
+                  <p>
+                     <hi>Quin praevenis,</hi>
+                     <note place="margin">Am<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſius in loc.</note> I meet with in ſome Expoſitors. For thou doſt prevent.</p>
+                  <p>
+                     <hi>Quinetiam praevenies.</hi> Which our other Tranſlation ſeems to follow. Yea, moreover, thou ſhalt prevent him.</p>
+                  <p>
+                     <hi>Thou haſt prevented.</hi>
+                     <note place="margin">Pſal. 44 7.</note> 
+                     <hi>For thou haſt ſaved us from our enemies, and haſt put them to ſhame that hated us.</hi>
+                  </p>
+                  <p>
+                     <hi>Thou doſt prevent.</hi>
+                     <note place="margin">Pſal. 46.1.</note> 
+                     <hi>For God is our refuge and ſtrength: a very preſent help in trouble.</hi>
+                  </p>
+                  <p>
+                     <hi>Thou ſhalt prevent.</hi>
+                     <note place="margin">Pſal. 48.14.</note> 
+                     <hi>For this God is our God for ever and ever, he will be our guide even unto death.</hi> So that we may conjugate the <hi>King</hi>'s deliverance through the ſeveral Tenſes of provi<g ref="char:EOLhyphen"/>dence, (as Saint <hi>Paul</hi> ſometimes did his) <hi>Who delivered</hi> him <hi>from ſo great a death,</hi>
+                     <note place="margin">2 Cor. 1.10.</note> 
+                     <hi>and doth deliver: in whom we truſt that he will yet deliver</hi> him.</p>
+                  <p>And, theſe Tenſes may teach us, (what we are not over-apt to learn) that the times of mercy are in God's own power, and at his ſole appointing, and he will not be preſcribed by us. We thought long for deliverance, groan<g ref="char:EOLhyphen"/>ing
+<pb n="26" facs="tcp:97011:20"/>(it's well if ſome did not murmure) under our preſſures: the arbitrary and lawleſs impoſitions of <hi>Pharaoh,</hi> and his worſe than <hi>Egyptian Taskmaſters,</hi> upon our Perſons, Eſtates, and (which cut deepeſt) our Conſciences alſo; and being impatient of delayes, would needs be ſetting God a time, and <hi>limiting the holy one of Iſrael,</hi> to wayes and means for our reſcue; but God, who beſt knows to time his own mercies, gave check to our preſumptions, and hath taught us the Religious manners of holy waiting, and to know that all our <hi>times are in his hand,</hi>
+                     <note place="margin">Pſa. 31.15.</note> and of his ſet<g ref="char:EOLhyphen"/>ting, and when that is come, he will ap<g ref="char:EOLhyphen"/>pear,
+<note place="margin">Pſal. 102.13.</note> and not before. <hi>Thou ſhalt ariſe, and have mercy upon</hi> Zion: <hi>for the time to favour her, yea the ſet time is come.</hi> One time or other, the <hi>King</hi> ſhall be prevented with <hi>the bleſſings of goodneſs.</hi> Here's <hi>Nullum Tempus occurrit Regi;</hi> either, thou haſt, thou doſt, or thou ſhalt <hi>prevent him with the bleſſings of good<g ref="char:EOLhyphen"/>neſs.</hi>
+                  </p>
+                  <p>
+                     <hi>Preventeſt.</hi> But how, and what is that? To <hi>prevent,</hi> is in ſtrictneſs of ſignification, to come before. God is ever before-hand in mercies, with the
+<pb n="27" facs="tcp:97011:20"/>
+                     <hi>King,</hi> with his people.
+<note place="margin">
+                        <hi>Com. in Pſ. o.</hi> 282. <hi>l.</hi> 6.</note> 
+                     <hi>Nemo eſt quem non praeveniat gratia, quia prior diligit, eligit, vocat, proeoccupat Deus,</hi> ſayes <hi>Lo<g ref="char:EOLhyphen"/>rinus.</hi> There is none whom grace pre<g ref="char:EOLhyphen"/>venteth not, becauſe God is firſt in lo<g ref="char:EOLhyphen"/>ving, chuſing, calling, and poſſeſſing of his creatures.
+<note place="margin">Rom. 11.35.</note> 
+                     <hi>Who hath firſt given to him</hi> (ſayes St. <hi>Paul,</hi> putting a queſti<g ref="char:EOLhyphen"/>on which defies all anſwers) <hi>and it ſhall be recompenced to him again?</hi> And St. <hi>Auguſtine</hi>'s blood's up againſt all that derogate from preventing goodneſs.
+<note place="margin">
+                        <hi>Coa. de. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t. Pela<gap reason="illegible" resp="#MURP" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> c</hi> 6.</note> 
+                     <hi>A<g ref="char:EOLhyphen"/>vertat Deus hanc dementiam, ut in do<g ref="char:EOLhyphen"/>nis ejus nos priores faciamus, poſterio<g ref="char:EOLhyphen"/>rem ipſum.</hi> God keep us all from that madneſs of making our ſelves firſt, and God to come after, in any gift which we receive at his hands. Nay, it were well if we would come after in any rea<g ref="char:EOLhyphen"/>ſonable diſtance. How hath God run us out of diſtance with mercy? How hath he gone farre enough before them in goodneſs, that never yet took one ſtep to follow him in thankfulneſs? Hath he not done us good long ſince, and waits for the returns of it to this very day? How may the beſt of us be aſha<g ref="char:EOLhyphen"/>med of our arrears? What a way are we behind in praiſes and thankſgiving
+<pb n="28" facs="tcp:97011:21"/>with him who ſometime delighted to way-lay our <hi>King</hi> with mercy and lo<g ref="char:EOLhyphen"/>ving-kindneſs, and yet <hi>preventeth</hi> him, and us in him, with <hi>the bleſſings of good<g ref="char:EOLhyphen"/>neſs.</hi>
+                  </p>
+                  <p>If you would ſee further into this <hi>pre<g ref="char:EOLhyphen"/>venting goodneſs,</hi> take the help of two particulars only.</p>
+                  <p>Thou preventeſt him, both in his <hi>Pe<g ref="char:EOLhyphen"/>tition,</hi> and <hi>Expectation.</hi>
+                  </p>
+                  <p n="1">1. <hi>Thou preventeſt him in his Petiti<g ref="char:EOLhyphen"/>on.</hi> Giveſt him before, and more than he asks. And this ſeems to be the im<g ref="char:EOLhyphen"/>port of the words. In the <hi>verſe</hi> before the Text, we read, <hi>Thou haſt given him his hearts deſire, thou haſt not with<g ref="char:EOLhyphen"/>holden the requeſt of his lips.</hi> Or, as ſome elegantly render it,
+<note place="margin">D. H. Par. in Loc.</note> 
+                     <hi>The eſpouſals of his lips.</hi> That is, That which he hath ſet his ſoul upon, and his heart and affections are ſo carried out after, as moſt deſirable.
+<note place="margin">Cant 3.11</note> (In which ſenſe, <hi>Solomon's Coronation-day,</hi> is called <hi>the day of his eſpouſals,</hi>
+                     <note place="margin">
+                        <hi>Conceſſit Regi quae pitiit: il<g ref="char:EOLhyphen"/>lit etiam <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>un conu<g ref="char:EOLhyphen"/>livit quae non. p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>tiit.</hi> Ameſ. in Loc.</note> 
+                     <hi>and the day of the gladneſs of his heart.</hi>) And now, ſayes the Text, Thou haſt out-done his deſires, and thy goodneſs exceeds all poſſible requeſts. Thou doſt not only give him <hi>Totum quod cupit;</hi> but <hi>Totum quod non cupit,</hi>
+                     <pb n="29" facs="tcp:97011:21"/>(as St. <hi>Auguſtine</hi> ſpeaking of the joyes of Heaven) All that he deſires, but all that he does not deſire. He cannot ask, what thou canſt, and doſt give. Thy favours come ſo thick upon him, they leave no room for prayer. Thou antici<g ref="char:EOLhyphen"/>pateſt his very requeſts in their conce<g ref="char:EOLhyphen"/>ptions. Thy mercies meet him, meet him more than half-way: nay, they are upon him before his prayer can ſet out. Thus <hi>thou preventeſt him with the bleſ<g ref="char:EOLhyphen"/>ſings of goodneſs.</hi> This may Engliſh that admiring Eulogie of the Father,
+<note place="margin">Sr. Bern.</note> who knew not how to ſpeak good e<g ref="char:EOLhyphen"/>nough of the name of that God, <hi>Qui non petentibus ſolùm, ſed impaenitenti<g ref="char:EOLhyphen"/>bus: non invocantibus ſed provocantibus bonum largitur.</hi> And this runs a paralel with that promiſe of the Evangelical Prophet:
+<note place="margin">Iſa. 65.24.</note> 
+                     <hi>And it ſhall come to paſs, that before they call, I will anſwer; and whiles they are yet ſpeaking, I will hear.</hi> And this calls for that return of the Apoſtle, <hi>Unto him that is able to do exceeding a<g ref="char:EOLhyphen"/>bundantly above all that we ask or think,</hi>
+                     <note place="margin">Eph 3.20, 211</note> 
+                     <hi>unto him be glory in the Church by Chriſt Jeſus, throughout all ages, world without end.</hi> Amen.</p>
+                  <pb n="30" facs="tcp:97011:22"/>
+                  <p>Thou preventeſt the <hi>King</hi> in his <hi>Pe<g ref="char:EOLhyphen"/>tition,</hi> that's one.</p>
+                  <p n="2">2.
+<note place="margin">Lorinus in Loc.</note> 
+                     <hi>Thou preventeſt him in his Ex<g ref="char:EOLhyphen"/>pectation. Et vo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a vincit &amp; cogitatio<g ref="char:EOLhyphen"/>nes.</hi> He exceeds not only prayer, but thoughts. This is <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, indeed, <hi>exceeding, abundantly above all;</hi> when goodneſs is above both votes and hopes: and imagination it ſelf could not reach our mercies. And certainly, if ever God prevented the thoughts and expectation of <hi>King</hi> or people, we are they.
+<note place="margin">Pſ. 126.1.</note> 
+                     <hi>When the Lord turned again the captivity of</hi> Zion: <hi>we were like them that dream;</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. So the <hi>Seven<g ref="char:EOLhyphen"/>ty two Interpreters.</hi> With whom the <hi>vulgar Latin</hi> conſents, <hi>Sicut conſolati:</hi> as men comforted. We are dead men revived. Like men given for gone, and reſtored. As ſick, deſperately ſick perſons, ſtrangely, unexpectedly reco<g ref="char:EOLhyphen"/>vered from the confines of death, and the grave, to a pancratick habit, and ſoundneſs of body. Which beſt Inter<g ref="char:EOLhyphen"/>preters conceive to be the meaning of that place. Let us look back again (for we can never look too often, and with admiration enough) on that me<g ref="char:EOLhyphen"/>morable ingagement at <hi>WORCESTER.
+<pb n="31" facs="tcp:97011:22"/>There the ſhield of the mighty was vile<g ref="char:EOLhyphen"/>ly caſt away,
+<note place="margin">2 Sam. 1.21</note> the ſhield of the King, as if he was not anointed with oyle.</hi> There <hi>innumerable evils compaſſed him about.</hi> There <hi>the wrath of the enemy was great;</hi>
+                     <note place="margin">Deut. 32.27.</note> and <hi>the adverſary behaved himſelf ſtrange<g ref="char:EOLhyphen"/>ly, and ſaid, Our hand is high, behold we do prevail. The enemy ſaid,
+<note place="margin">Exod. 15.9</note> I will purſue, I will overtake, I will divide the ſpoil: my luſt ſhall be ſatisfied up<g ref="char:EOLhyphen"/>on him; my hand ſhall deſtroy him, I will make his remembrance to ceaſe from among men.</hi>
+                     <note place="margin">Deut. 3<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.26. Lam. 4 19</note> 
+                     <hi>His perſecutors were ſwif<g ref="char:EOLhyphen"/>ter than the Eagles of the Heaven: they purſued him upon the Mountains, they laid wait for him in the Wilderneſs.</hi> And we thought nothing elſe,
+<note place="margin">Verſ. 20. Exod. 14.13. Pſal. 57.2.</note> but that <hi>The breath of our noſtrils, the anointed of the Lord</hi> had been <hi>taken in their pits.</hi> But ſee the ſalvation of the Lord which he ſhewed to him that day. <hi>He cried unto God moſt high: unto God that perform<g ref="char:EOLhyphen"/>eth all things for him.</hi> And lo! be<g ref="char:EOLhyphen"/>ſides, beyond, above all expectation;
+<note place="margin">Verſ. 2. Pſ. 124.7.</note> 
+                     <hi>He ſends from Heaven, and ſaves him from the reproach of him that would ſwallow him up. His ſoul is eſcaped as a bird out of the ſnare of the Fowlers: the ſnare is broken, and he is eſcaped.
+<pb n="32" facs="tcp:97011:23"/>Preventing goodneſs</hi> ſecured him againſt <hi>circumventing wickedneſs;</hi> and he is a<g ref="char:EOLhyphen"/>live as at this day.
+<note place="margin">Verſ. 6.</note> 
+                     <hi>Bleſsed be the Lord: who hath not given him as a prey to their teeth.</hi>
+                     <note place="margin">Pſa. 18 46</note> 
+                     <hi>The Lord liveth, and bleſsed be his rock: and let the God of his ſalvati<g ref="char:EOLhyphen"/>on be exalted.</hi> Add to this his conſtancy in Religion, from which neither (as his own royal pen gives it us) could ever move him; though he might complain as <hi>David,</hi>
+                     <note place="margin">1 Sam. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>6.19.</note> 
+                     <hi>They have driven me out this day from abiding in the inheritance of the Lord, ſaying, Go ſerve other Gods.</hi> And add to this his return hither in ſafety up<g ref="char:EOLhyphen"/>on the wings of his peoples votes, and prayers: after the government was un<g ref="char:EOLhyphen"/>hinged, and the old foundations ſo farre out of courſe, and the <hi>New Modellers</hi> ſo ſtrengthened in their wickedneſs, as to dare to attempt the abjuration of his royal Perſon,
+<note place="margin">Iſa. 58.12.</note> and Family: <hi>To build the old waſt places: and to raiſe up the foun<g ref="char:EOLhyphen"/>dations of many generations: and be cal<g ref="char:EOLhyphen"/>led, The Repairer of the breach, the Re<g ref="char:EOLhyphen"/>ſtorer of paths to dwell in.</hi> And we muſt needs confeſs, that God hath emi<g ref="char:EOLhyphen"/>nently <hi>prevented all</hi> expectations <hi>with the bleſſings of goodneſs.</hi>
+                  </p>
+                  <pb n="33" facs="tcp:97011:23"/>
+                  <p>Let us learn then, whether we owe, and to whom to aſcribe, the peace, the plenty, the liberty, the life, the joy of this Day! even to <hi>preventing good<g ref="char:EOLhyphen"/>neſs</hi> all. Had it not been for that, neither we, nor poſſibly this place, eſpecially in this <hi>decorum,</hi> and luſtre, had been ſtanding here this day. This was our <hi>wings,</hi> and <hi>feathers:</hi> our <hi>rock,</hi> and <hi>refuge;</hi> our <hi>walls,</hi> and <hi>bullwarks;</hi> our <hi>ſhield,</hi> and <hi>buckler:</hi> our <hi>ſtrength,</hi> and <hi>ſtay:</hi> our <hi>light,</hi> and our <hi>ſalvation:</hi> This is that <hi>Tower of</hi> David <hi>builded for an Armory,</hi>
+                     <note place="margin">Cant. 4.4.</note> 
+                     <hi>whereon there hang a thouſand Bucklers, all ſhields of mighty men.</hi> This is every thing to the <hi>King,</hi> and to us in him, <hi>Thou pre<g ref="char:EOLhyphen"/>ventest him with the bleſsings of good<g ref="char:EOLhyphen"/>neſs.</hi>
+                  </p>
+                  <p>That <hi>Zion's ſtones have been piti<g ref="char:EOLhyphen"/>ed,</hi>
+                     <note place="margin">Pſ. 102.14</note> and any have <hi>favoured the duſt thereof:</hi> ſo that ſhe did not ſink down into eternal, and irrecoverable ruines.</p>
+                  <p>That the beauteous <hi>Church of En<g ref="char:EOLhyphen"/>gland,</hi> ſcratched and torne by her own undutiful ſons; is not <hi>ſitting ſo<g ref="char:EOLhyphen"/>litary,</hi> like that Widow in the <hi>La<g ref="char:EOLhyphen"/>mentations,</hi> bemoaning her miſeries,
+<pb n="34" facs="tcp:97011:24"/>and begging pity of Paſſengers,
+<note place="margin">Lam. 1.12</note> 
+                     <hi>Is it nothing to you, all you that paſs by? behold and ſee, if there be any ſorrow like unto my ſorrow, which is done un<g ref="char:EOLhyphen"/>to me, wherewith the Lord hath affli<g ref="char:EOLhyphen"/>cted me in the day of his fierce an<g ref="char:EOLhyphen"/>ger!</hi>
+                  </p>
+                  <p>That we are not filled with the <hi>noiſe of the Warrior,</hi>
+                     <note place="margin">Iſa. 9 5.</note> 
+                     <hi>and Garments rolled in blood.</hi>
+                     <note place="margin">Pſ. 144.14</note> That we have <hi>no leading in<g ref="char:EOLhyphen"/>to captivity, no complaining in our ſtreets;</hi> but our <hi>eyes ſee</hi> Hieruſalem <hi>a quiet ha<g ref="char:EOLhyphen"/>bitation, a Tabernacle that ſhall not be taken down.</hi>
+                  </p>
+                  <p>That the plots, and conſpiracies of unreaſonable men, (if it be not unrea<g ref="char:EOLhyphen"/>ſonable to call them men) are diſcovered, their purpoſes diſappointed, and their arm broken.</p>
+                  <p>That we are not <hi>filled with bitter<g ref="char:EOLhyphen"/>neſs,</hi>
+                     <note place="margin">Lam. 3 15.</note> 
+                     <hi>and made drunk with wormwood. Fed with the bread of Affliction,</hi>
+                     <note place="margin">Iſa. 30.20.</note> 
+                     <hi>and the water of Affliction, and our Teachers remo<g ref="char:EOLhyphen"/>ved into corners.</hi>
+                  </p>
+                  <p>That we are not <hi>compaſsed with gall and travel;</hi>
+                     <note place="margin">Lam. 3.5, 7.</note> 
+                     <hi>hedged about, and our chain made heavy.</hi>
+                  </p>
+                  <p>That our <hi>necks</hi> are not <hi>under per<g ref="char:EOLhyphen"/>ſecution,</hi>
+                     <note place="margin">Ch. 5.5, 8.</note> and we <hi>labouring without reſt;
+<pb n="35" facs="tcp:97011:24"/>Servants ruling over us, whiles there is none to deliver us out of their hands.</hi>
+                  </p>
+                  <p>In ſhort. That we are not incom<g ref="char:EOLhyphen"/>parably wretched: as miſerable, as war and wickedneſs: as faction, and folly: as error, and ambition: as malice, and madneſs: can make us, is ſolely from this <hi>preventing</hi> of the Text, <hi>Thou preventeſt him with the bleſſings of good<g ref="char:EOLhyphen"/>neſs.</hi>
+                  </p>
+                  <p>And therefore, (that I may cloſe this) How much is it our concern, to addreſs often, and earneſtly to Heaven: to importune <hi>the God of all grace,</hi> that he will continue to prevent the <hi>King,</hi> and his liege people, with the bleſſings of goodneſs ſtill.
+<note place="margin">1 Sam. 2.10.</note> 
+                     <hi>That his Adverſaries may be broken in pieces, and that he will thunder out of Heaven upon them.</hi> That he will <hi>give ſtrength to the King, and exalt the horn of his anointed;</hi> that ſo the <hi>King may yet joy in his ſtrength,</hi>
+                     <note place="margin">Pſal 84.9<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> 
+                     <hi>and greatly rejoice in his ſalvation. Behold, O God our ſhield, and look upon the face of thine anointed.</hi> The children of <hi>Edom</hi> are waiting for another day of <hi>Hieruſalem:</hi> and as ſmooth as they look, and ſpeak, with
+<pb n="36" facs="tcp:97011:25"/>
+                     <hi>Jael's butter and milk,</hi>
+                     <note place="margin">Judg. 4.18.</note> 
+                     <hi>and a Turn in my Lord, turn in to us, and fear not;</hi> it is to be feared, they have a nail for thoſe temples, which God of his <hi>pre<g ref="char:EOLhyphen"/>venting goodneſs</hi> keep out of their hands. <hi>Let my Lord the King live, and this fear be to his enemies.</hi>
+                  </p>
+                  <p>And ſo I ſhall ha' done with the firſt general part of the Text, <hi>The Conſerva<g ref="char:EOLhyphen"/>tion of the</hi> King. <hi>Thou preventeſt him with the bleſſings of goodneſs.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <p>Come we now to the <hi>Second:</hi> that which we are come with this great, and unuſual pomp, to ſolemnize, <hi>The Co<g ref="char:EOLhyphen"/>ronation of the King. Thou ſetteſt a crown of pure gold on his head.</hi>
+               </p>
+               <p>And here, that we may make this ſecond part match, and run a paralel with the firſt: we ſhall take notice of three expreſſions, which heighten the mercy of his <hi>Coronation,</hi> as thoſe other did of his <hi>Conſervation.</hi>
+               </p>
+               <p n="1">1. <hi>The King's head crowned.</hi>
+               </p>
+               <p n="2">2. <hi>The crown upon that head, gold, pure gold.</hi>
+               </p>
+               <p n="3">3. <hi>The hand of God ſetting that crown of gold upon that head. Thou ſetteſt a crown of pure gold on his head.</hi>
+               </p>
+               <div n="1" type="section">
+                  <p n="1">1. <hi>Upon his head.</hi> Not upon any
+<pb n="37" facs="tcp:97011:25"/>one <hi>member,</hi> no nor upon any <hi>five members</hi> neither, no nor yet upon the whole body. <q rend="margQuotes">
+                        <hi>For by the undoubted fundamental Laws of this Kingdom, neither the Peers of the Realm, nor the Commons, nor both together in Parlia<g ref="char:EOLhyphen"/>ment: nor the people collectively, or repreſentatively, nor any other perſons whatſoever, ever had, hath, or ought to have any coercive power over the perſons of the Kings of this Realm.</hi>
+                     </q>
+                     <note place="margin">Dated <hi>J<gap reason="illegible" resp="#MURP" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>.</hi> 25. 1660.</note> As the <hi>Royal pen</hi> informs us in a late Pro<g ref="char:EOLhyphen"/>clamation, and hath enacted it alſo at the requeſt of the late <hi>Parliament:</hi> that our <hi>heels</hi> may no more ſtand where our <hi>head</hi> ſhould be.</p>
+                  <p>Upon his head, as fitteſt for <hi>Viſion, Pro<g ref="char:EOLhyphen"/>viſion.</hi>
+                  </p>
+                  <p n="1">1. <hi>The head is fitteſt for Viſion.</hi>
+                     <note place="margin">Eccleſ 2.14.</note> 
+                     <hi>A wiſe man's eyes are in his head.</hi> And well had it been for us if ours had been believed to be there when time was; probably we had not ſeen the miſeries, and dire<g ref="char:EOLhyphen"/>ful effects of the late Warres. We were ſo ſagacious, and quick-ſighted, we could ſee things before they were in their cauſes: our <hi>members</hi> would needs ſee more than our <hi>head,</hi> and ſo we ran blind-folded into confuſion. The
+<pb n="38" facs="tcp:97011:26"/>eyes of a people are in their <hi>King</hi> as in their <hi>head:</hi> and they that are with<g ref="char:EOLhyphen"/>out him (witneſs our late ſelves) are but like <hi>Sampſon</hi> without his eyes, fit for nothing but to make the <hi>Philiſtines ſport.</hi>
+                     <note place="margin">Judg. 16.25.</note> It is a ſign their brains are ſcarce in their heads, that think their eyes would do well any where elſe. <hi>Upon his head for Viſion.</hi>
+                  </p>
+                  <p n="2">2. <hi>Upon his head for Proviſion.</hi> The <hi>head</hi> is <hi>Providore,</hi> and Purveyor for the whole body. The welfare of the body depends moſtly upon the Wiſdom, and Council, upon the dictates and directi<g ref="char:EOLhyphen"/>ons of the <hi>head.</hi> The body ſupports the <hi>head</hi> by its ſtrength, and the <hi>head</hi> ſupplyes the body by its providence. A Church, or State without this <hi>head,</hi> is like an Orphan, or fatherleſs In<g ref="char:EOLhyphen"/>fants. So that promiſe intimates, <hi>Erunt Reges nutricij hij. And Kings ſhall be thy Nurſing Fathers,</hi>
+                     <note place="margin">Iſa. 49.23.</note> 
+                     <hi>and their Queens thy Nurſing Mothers. Oecono<g ref="char:EOLhyphen"/>mi tui</hi> (as ſome render it) making the Church and Common-wealth the Family of the <hi>Prince,</hi> upon whom lies the whole care, and governance of it, to order it, and provide for it. Upon his <hi>head</hi> as fitteſt for <hi>proviſion.</hi> That's a ſe<g ref="char:EOLhyphen"/>cond.</p>
+                  <pb n="39" facs="tcp:97011:26"/>
+                  <p>Upon his <hi>head.</hi> This being <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, and <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>: both for <hi>Order,</hi> and for <hi>honor's</hi> ſake. Or if you pleaſe,</p>
+                  <p>Upon his <hi>head,</hi> Imports, The <hi>heighth of his place,</hi> and The <hi>weight of his em<g ref="char:EOLhyphen"/>ployment.</hi>
+                  </p>
+                  <p n="1">1. <hi>The heighth of his place. Head</hi> denotes chiefdom, and pre-eminence. The chief of their Tribes, and Fami<g ref="char:EOLhyphen"/>lies, which the Vulgar Latin all along calls, <hi>Principes;</hi> our Tranſlation ren<g ref="char:EOLhyphen"/>ders, <hi>Heads. Princes</hi> are <hi>Heads.</hi>
+                     <note place="margin">Mic. 3.1.</note> 
+                     <hi>Hear O Heads of</hi> Jacob, <hi>and ye Princes of the houſe of</hi> Iſrael. It may be ſaid of <hi>Saul</hi> in his place, as well as his perſon, that he is, <hi>Altior univerſo populo ab hu<g ref="char:EOLhyphen"/>mero, &amp; ſurſum. Higher by the head than all the people. Rex omnibus ma<g ref="char:EOLhyphen"/>jor, Deo ſolo minor:</hi> was good divini<g ref="char:EOLhyphen"/>ty in <hi>Tertullian</hi>'s dayes: (though the iniquity of ours had almoſt daſht it out of countenance with that ridicu<g ref="char:EOLhyphen"/>lous Maxim of our new Statiſts,
+<note place="margin">Confuted by <hi>Bodin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s de Repub. l.</hi> 1. <hi>cap.</hi> 8.</note> 
+                     <hi>Ma<g ref="char:EOLhyphen"/>jor ſingulis, minor univerſis.</hi>) The <hi>King</hi> is above all, and under God on<g ref="char:EOLhyphen"/>ly. He is <hi>Homo Deo ſecundus,</hi> in the ſame Father's phraſe. A man ſecond to God. Nay, be it ſpoken with re<g ref="char:EOLhyphen"/>verence!
+<pb n="40" facs="tcp:97011:27"/>He is a God of the ſecond ſort.
+<note place="margin">1 Tim 1.17. Pſal. 82.6.</note> 
+                     <hi>Deus eſt immortalis Rex, Rex mortalis Deus.</hi> God is an immortal King, and the King is a mortal God. This is Scripture language, and I hope we may ſpeak it without ſuſpicion of flattery. <hi>The height of the King's place,</hi> that's the firſt import of his <hi>head.</hi>
+                  </p>
+                  <p n="2">2. <hi>The weight of his employment.</hi> The trouble of Government lies moſt in the <hi>head.</hi> Others may have their hands, but the <hi>King</hi> commonly hath his <hi>head,</hi> full. This made <hi>Antigonus</hi> ſay to his ſon, <hi>Regnum noſtrumeſt ſervitus ſplen<g ref="char:EOLhyphen"/>dida.</hi> A Kingdom is but a glorious ſervitude. A finer kind of trouble. No wonder if <hi>Saul hid himſelf among the ſtuff;</hi>
+                     <note place="margin">1 Sam. 10.2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> and choſe rather to obſcure his head among the baggage, than of<g ref="char:EOLhyphen"/>fer it to the Crown of <hi>Iſrael:</hi> if he foreſaw the burden of buſineſs, and incumbrance, which he was like to put on with it. Indeed could that <hi>Bellua multorum capitum,</hi> be tamed, and all Wood made <hi>Mercury;</hi> Would the Rout be refined, and ingenuity be found among the Rabble; Were there hopes to meet with a Nation as
+<pb n="41" facs="tcp:97011:27"/>tractable, as <hi>David</hi> found his countrey<g ref="char:EOLhyphen"/>men of <hi>Judah: Whoſe hearts he bowed,</hi>
+                     <note place="margin">2 Sam. 19.14.</note> 
+                     <hi>even as the heart of one man.</hi> Then, <hi>Facile eſt imperium in bones:</hi>
+                     <note place="margin">Pla<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t.</note> as the <hi>Comedian.</hi> Good men are eaſily go<g ref="char:EOLhyphen"/>verned. But the depravity of nature, the pride, avarice, and ambition of men, hath made them ſo mutinous, and unruly: that government is be<g ref="char:EOLhyphen"/>come a weight, big enough for head, and ſhoulders and all.
+<note place="margin">Iſa. 9.6.</note> Therefore that <hi>Principatus ſuper humerum,</hi> in the <hi>Pro<g ref="char:EOLhyphen"/>phet: The Government ſhall be upon his ſhoulder:</hi> does not only allude to the Scepter, and Sword, and other ſym<g ref="char:EOLhyphen"/>bols of Authority,
+<note place="margin">Praeto<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ibus a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>te ibant <gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>c<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ores cum f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſci<g ref="char:EOLhyphen"/>bas. Cic.</note> carried upon the ſhoulder, (as the <hi>Romane Faſces</hi> were) before the <hi>Magiſtrate;</hi> but ſpeaks <hi>go<g ref="char:EOLhyphen"/>vernment</hi> it ſelf to be a <hi>weight</hi> requi<g ref="char:EOLhyphen"/>ring more than an ordinary ſtrength to undergo it.
+<note place="margin">
+                        <hi>A lap. in Iſa. p.</hi> 156.</note> Therefore the learned in the <hi>Hebrew</hi> obſerve, that the word <hi>Naſi,</hi> ſignifies both <hi>Prince,</hi> and <hi>Bearer.</hi> A Prince is <hi>Bajulus reipublicae,</hi> The ſupporter of his people. So <hi>Moſes</hi> made account,
+<note place="margin">Deut 1.12. 2 King 13.14.</note> when he complained that, He could <hi>not bear them alone.</hi> He is <hi>Currus &amp; Auriga,</hi> the Chariot and Horſeman to his people, whom
+<pb n="42" facs="tcp:97011:28"/>he carries about with him continually. He ſtands under ſuch a weight, that he is the very <hi>Atlas</hi> of the lower world. In ſhort. The cares of <hi>Princes</hi> ſit clo<g ref="char:EOLhyphen"/>ſer to their heads than their Crowns, and they that wear them both, never want weight. Matters of import, and <hi>weight of employment,</hi> that alſo is ſignified by the head.</p>
+                  <p>And now I ſhould ha' done with this particular: but finding the words alſo eminently applyed to the <hi>Lord Jeſus Chriſt,</hi>
+                     <note place="margin">Col. 1.18.</note> 
+                     <hi>who is head of the body, the Church;</hi> I could not paſs them over, without taking notice, that it is no ſuch impropriety, to ſay two heads, as our <hi>Refuſers of the Oath of Supre<g ref="char:EOLhyphen"/>macy</hi> would inſinuate. For <hi>Subordina<g ref="char:EOLhyphen"/>ta non pugnant.</hi> To make the <hi>King</hi> head, is not to behead <hi>Chriſt Chriſt</hi> is head, and the <hi>King</hi> is ſubordinate head too. Two heads, and yet no Monſtroſity.</p>
+                  <q>Reges in ipſos imperium eſt Jovis.</q>
+                  <p>
+                     <hi>Toparchs,</hi> and <hi>under-Kings</hi> are not inconſiſtent with an <hi>Empire:</hi> no more are <hi>Terreſtrial Kingdoms,</hi> and <hi>Head<g ref="char:EOLhyphen"/>ſhips</hi>
+                     <pb n="43" facs="tcp:97011:28"/>with the paramount power of the <hi>Lord of Glory.</hi> It is ridiculous to think, more to object, that the <hi>King</hi> would invade the Prerogative Royal of <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> by being <hi>head of the Church</hi> in the ſame heighth, and latitude with him: or that <hi>Chriſt</hi> ſhould not look upon it as equal robbery for any to call himſelf <hi>King,</hi> as <hi>head</hi> in his Church; which yet theſe <hi>Recuſants</hi> are willing to allow. If men will be ſober, they cannot but ſee the <hi>King</hi> layes claim to nothing which <hi>Chriſt</hi> hath reſerved to himſelf as his peculiar. He ſtands not Rival with him for command. He pleads not Peerage with God. He ſayes not, ſayes not <hi>in his heart,</hi>
+                     <note place="margin">Iſa. 14.13, 14.</note> 
+                     <hi>I will ex<g ref="char:EOLhyphen"/>alt my Throne above the ſtarres of God. I will aſcend above the heights of the clouds;</hi> Ero ſimilis altiſſimo. <hi>I will be like the moſt high.</hi> That was <hi>Luci<g ref="char:EOLhyphen"/>fer</hi>'s Language: and one as proud as <hi>Lucifer,</hi> takes to it, or elſe he hath wrong done him, <hi>Dominus Deus no<g ref="char:EOLhyphen"/>ſter Papa.</hi> Our Lord God the Pope. I wiſh they would not give the <hi>Pope</hi> that which they deny the <hi>King.</hi> Let them but remember the ſtile of ſome aſpiring <hi>Emperors,</hi> and the King's ti<g ref="char:EOLhyphen"/>tle
+<pb n="44" facs="tcp:97011:29"/>will appear modeſt enough. <hi>Nu<g ref="char:EOLhyphen"/>men noſtrum. Noſtra Aeternitas.</hi> And what <hi>Dio</hi> the Hiſtorian tells us of ſome Marbles, and Statua's that they were inſcribed with <hi>Devoti Numini.</hi> Titles, which any thing but Marbles would bluſh at. But a <hi>Sub-ſupremacy</hi> (as I may call it) to be <hi>Supreme under Chriſt,</hi> ſuits both with the reaſon of a man, and the ſobriety of a Chriſti<g ref="char:EOLhyphen"/>an. There can be no juſt pretence to deny the <hi>King</hi> his Supremacy, whil'ſt in all humility he confeſſeth <hi>Christ's.</hi> The truth is, the cavil is ſo idle, and impertinent, that thoſe which make it, give cauſe enough to ſuſpect, that as they now grudge him his <hi>head,</hi> ſo they would not ſtick to take off his head, had they power and opportunity in their hands.</p>
+                  <p>If wiſe, and good men be not mi<g ref="char:EOLhyphen"/>ſtaken, This is that ſubmiſſion <hi>Saint Peter</hi> calls for,
+<note place="margin">2 Pet. 2.13</note> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>To the King as Supreme.</hi> Yes, ſay theſe worſt ſort of <hi>Recuſants</hi> again, To the <hi>King</hi> as Supreme in Temporals. I grant that the expoſition of <hi>Pope In<g ref="char:EOLhyphen"/>nocent</hi> the third;
+<note place="margin">
+                        <hi>P.</hi> 226 <hi>l A. Col.</hi> 1.</note> for ſo <hi>Lorinus the Jeſuite</hi> tells us in his Comment upon
+<pb n="45" facs="tcp:97011:29"/>
+                     <hi>St. Peter.</hi> And, I wiſh, they be not as little friends to the <hi>Proteſtant Churches</hi> as he, that follow that Expoſition. <hi>Sit Petrus in clave:</hi> is a phraſe uſed at the Coronation of the Kings of this Realm. And if there be any Scholars among the diſſenters, let them conſtrue me that.</p>
+                  <p>Mr. <hi>Biſield,</hi> a perſon looked on as no great admirer of conformity, urgeth this place to evince the <hi>King's Supremacy,</hi> and the Oath to it, as any may ſee that will conſult his Commentary upon it. I ſhall only add. Let <hi>Proteſtants</hi> remember it was an <hi>Apoſtle;</hi> and the <hi>Pontificians</hi> conſider it was <hi>Saint Peter</hi> that aſſerted the <hi>King's Supremacy:</hi> and then methinks neither ſhould have much to ſay, why he ſhould not be owned as <hi>head,</hi> upon whoſe head the Crown is now to be ſet. Which is the next particular; both the day, and the time, and the Text, lead us to it.</p>
+               </div>
+               <div type="section">
+                  <p>
+                     <hi>The Crown upon the Kings head is gold, pure gold.</hi> A Crown of pure gold on his head.</p>
+                  <p>
+                     <hi>A Crown.</hi> But what Crown? there's the queſtion; and it is not <hi>Tanti,</hi> not worth the while to reſolve it. Some con<g ref="char:EOLhyphen"/>ceive the Text to intend a particular <hi>Crown.</hi> Among theſe, <hi>Trevetus, Vata<g ref="char:EOLhyphen"/>blus,</hi>
+                     <pb n="46" facs="tcp:97011:30"/>and <hi>Genebrard,</hi> determine it, the <hi>Crown</hi> of the <hi>King of Ammon</hi> taken at <hi>Rabbah:</hi> of which mention is made, 2 <hi>Sam.</hi> 12.30. But whether the <hi>King's</hi> own <hi>Crown,</hi> or the <hi>Crown</hi> of <hi>Melchom,</hi> alias <hi>Molech,</hi> the celebrated <hi>Idol</hi> of that peo<g ref="char:EOLhyphen"/>ple; hath been diſputed more than e<g ref="char:EOLhyphen"/>nough. Not of the <hi>King,</hi> ſayes one party; becauſe of the exceſſive weight of it,
+<note place="margin">2 Sam. 12.30. Sixty pound weight. <hi>Iu<gap reason="illegible" resp="#MURP" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>us.</hi>
+                     </note> a Talent of gold, a Talent being one hun<g ref="char:EOLhyphen"/>dred, twenty, and five pounds; and ſo the Crown was inſupportable either by the head of <hi>David,</hi> or of the <hi>King</hi> of <hi>Ammon</hi> himſelf, though of a larger breed.
+<q>Nec ſufferre queat majoris pondera Gem<g ref="char:EOLhyphen"/>mae.
+<note place="margin">
+                           <hi>Iuven. Sat.</hi> 1.</note>
+                     </q> To evade which.
+<note place="margin">Not uſual<g ref="char:EOLhyphen"/>ly worne, but a Crown Eſtate. <hi>Willet. Ha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m. in</hi> 2 <hi>Sam. p.</hi> 78.</note> It was ſupported by the hands of others, ſays <hi>Lyranus.</hi> It was con<g ref="char:EOLhyphen"/>trived to be pendent, ſo <hi>Abulenſis,</hi> from the <hi>Hebrews.</hi> Or, which is the fancy of <hi>Bruno</hi> the <hi>Carthuſian: Conſlavit, &amp; in ali<g ref="char:EOLhyphen"/>am redegit.</hi> It was melted, and reduced to a leſs, and more ſuitable ſiſe. Nor was it the <hi>Idol's crown,</hi> ſayes the other party. Both upon a religious account, becauſe it was inconvertible to <hi>David's</hi> uſe; and up<g ref="char:EOLhyphen"/>on a civil ſcore, becauſe it was below him to wear the reverſions of an <hi>Idol,</hi> who was
+<pb n="47" facs="tcp:97011:30"/>
+                     <hi>Solo Deo vero minor, majorque falſis,</hi> below the true God only,
+<note place="margin">Abulenſis. Lyranus. Hugo Car<g ref="char:EOLhyphen"/>dinalis. Carthuſia<g ref="char:EOLhyphen"/>nus.</note> better and greater than all factitious, fictitious ones. The Learn<g ref="char:EOLhyphen"/>ed have troubled themſelves more than needs to ſalve all theſe difficulties. It would be beſides our buſineſs, to ingage with any of them in renewing a quarrel a<g ref="char:EOLhyphen"/>bout a Crown long ſince laid in the duſt. There are ſome alſo (whom we ſhall but mention) for another <hi>Crown:</hi>
+                     <note place="margin">2 Sam. 1.10.</note> the <hi>Crown</hi> of <hi>Iſrael,</hi> which <hi>Saul</hi> wore, and the young <hi>Amalckite took from his head,</hi> as alſo the <hi>bracelet from his arm,</hi> and brought them to <hi>David,</hi> and loſt his life for his pains.</p>
+                  <p>Whatſoever Crown it was, it was <hi>In<g ref="char:EOLhyphen"/>ſigne Regni,</hi> in the <hi>Orator's</hi> expreſſion, An <hi>Enſign</hi> of <hi>Soveraignty,</hi> and one of the chief among the <hi>Regalia.</hi> Such a <hi>Crown</hi> it was, that Interpreters ſtrive, as if they could not embeliſh, and ſet it out with terms ſignificative enough. <hi>Poſuiſti in capite e<g ref="char:EOLhyphen"/>jus Coronam de lapide pretioſo.</hi> Thou ſet<g ref="char:EOLhyphen"/>teſt a Crown of precious ſtones on his head: ſo the <hi>Vulgar Latin.</hi> And <hi>Bruno</hi> the <hi>Carthuſian,</hi> from <hi>Joſephus,</hi> tells us,
+<note place="margin">Cicero. In Pſal.</note> it was <hi>Corona cum Sardonyche in medio gemma<g ref="char:EOLhyphen"/>rum.</hi> A <hi>Crown</hi> that had a <hi>Sardonyx</hi> ſet in it, in the midſt of other Jewels. The <hi>Sar<g ref="char:EOLhyphen"/>donyx</hi> ſignifieth Zeal for the Faith, and a
+<pb n="48" facs="tcp:97011:31"/>readineſs to die for it. A ſtone that would ſtand well in the <hi>Diadem</hi> of this <hi>Realm,</hi> as well becoming him who is <hi>Defender of the Faith:</hi> and renewing the precious memo<g ref="char:EOLhyphen"/>ry of that <hi>Royal Martyr,</hi>
+                     <note place="margin">K. <hi>Charls</hi> 1.</note> who ſealed his love to it with his blood,
+<note place="margin">Rev. 12.11.</note> and <hi>loved not his life unto the death.</hi> I am not ſo much a <hi>La<g ref="char:EOLhyphen"/>pidary,</hi> as to give you in all theſe <hi>Crown-Jewels,</hi> and their <hi>Tropological</hi> imports. I ſhall only tell you the <hi>Topaz</hi> was one; that <hi>Lapis auri aemulus</hi> ſo called for the golden colour of it:
+<note place="margin">
+                        <hi>Corn. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ap. Com. n<gap reason="illegible" resp="#MURP" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>od p.</hi> 554. <hi>l D.</hi>
+                     </note> ſignifying, <hi>Animum caele<g ref="char:EOLhyphen"/>ſtem &amp; ad omnia infractum,</hi> a gallant ſoul, one that dares invite danger, and ſhrinks in at no apprehenſions of fear. And to this alſo the <hi>Head</hi> to be Crowned this day hath a good title, as his actions both at home, and abroad can witneſs. But time is more precious than theſe ſtones, and therefore I ſhall ſpend no more of it upon them. Enough of that reading. <hi>A Crown of precious ſtones on his head.</hi>
+                  </p>
+                  <p>Saint <hi>Hierom</hi> reads it, <hi>Ex obryzo,</hi> of tried gold. <hi>Auri purgatiſſimi. Optimi.</hi> Thoſe are other readings ſpeaking the ſame ſenſe of the Text; and therefore I ſhall keep to that. <hi>A Crown of pure gold.</hi>
+                  </p>
+                  <p>I ſhall not digreſs into a diſcourſe of the ſeveral acceptations of the word <hi>Crown,</hi> in Scripture.</p>
+                  <pb n="49" facs="tcp:97011:31"/>
+                  <p>Sometimes ſpeaking <hi>excellence:</hi>
+                     <note place="margin">Prev. 12.4</note> 
+                     <hi>A ver<g ref="char:EOLhyphen"/>tuous woman is the Crown of her husband.</hi> Sometimes, <hi>abundance:</hi>
+                     <note place="margin">Pſ. 65.11.</note> 
+                     <hi>Thou crowneſt the year with thy goodneſs: and thy clouds drop fatneſs.</hi> Sometimes, <hi>recompence:</hi>
+                     <note place="margin">Rev. 3.11.</note> 
+                     <hi>Hold faſt that which thou haſt, that no man take thy Crown.</hi> I ſhall make quicker work, if I on<g ref="char:EOLhyphen"/>ly obſerve to you, That, <hi>Crown</hi> ſpeaks Majeſty. <hi>Gold,</hi> perpetuity. <hi>Pure,</hi> ſimplicity.</p>
+                  <p n="1">1. <hi>Crown, There's Majeſty.</hi>
+                     <note place="margin">Liv.</note> The Hiſto<g ref="char:EOLhyphen"/>rian calls this <hi>Inſigne Regium,</hi> this eſpeci<g ref="char:EOLhyphen"/>ally; it is the firſt, higheſt, greateſt, and moſt inſeparable.
+<note place="margin">2 King. 11.12. Eſth. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.17</note> When <hi>Joaſh</hi> was made <hi>King, Jehoiada</hi> put the <hi>Crown</hi> upon him, And when <hi>Eſther</hi> was made <hi>Queen,</hi> the <hi>Crown</hi> of the Kingdom was ſet upon her head. In familiar diſcourſe <hi>Crown</hi> ſpeaks as much as <hi>Kingdom.</hi> A <hi>Crown</hi> is ſo ex<g ref="char:EOLhyphen"/>preſſive of <hi>Majeſty,</hi> that it gives us in ſome, and thoſe the ſublimeſt apprehenſi<g ref="char:EOLhyphen"/>ons of the life to come, and all thoſe glo<g ref="char:EOLhyphen"/>rious retributions of the Saints. It was the higheſt notion under which St. <hi>Paul</hi> could conceive of the bliſs of Heaven. <hi>Henceforth is laid up for me a Crown of Righteouſneſs, which the Lord the righteous Judge ſhall give me at that day.</hi> A <hi>Crown,</hi> There's <hi>Majeſty.</hi>
+                  </p>
+                  <p n="2">2. <hi>Gold.</hi> There's <hi>perpetuity.</hi> Let the
+<pb n="50" facs="tcp:97011:32"/>
+                     <hi>Iſthmian</hi> Gameſters wear their Garlands, whoſe names were as fading as their flow<g ref="char:EOLhyphen"/>ers; <hi>Gold</hi> that immortal mettal is only fit for his head, who is immortal; and that <hi>Rex nunquam moritur,</hi> makes the King ſo. And ſo does that, <hi>In pactum ſalis,</hi>
+                     <note place="margin">2 Chron. 13.5.</note> of <hi>Abijah. The Lord hath given the Kingdom over</hi> Iſrael <hi>to</hi> David <hi>for ever, e<g ref="char:EOLhyphen"/>ven to him and to his ſons, by a Covenant of Salt.</hi> And ſo does that promiſe made to <hi>David</hi> in faithfulneſs,
+<note place="margin">Pſ. 89.29.</note> 
+                     <hi>His ſeed will I make to endure for ever: and his throne as the dayes of heaven.</hi>
+                     <q>
+                        <l>Nulla te terris rapiet vetuſtas,
+<note place="margin">Senec.</note>
+                        </l>
+                        <l>Tu comes Phoebo, comes ibis aſtris.</l>
+                     </q> 
+                     <hi>Gold, there's perpetuity.</hi> I willingly omit ſome other deſignations of Gold. <hi>Pru<g ref="char:EOLhyphen"/>dence,</hi> it notes wiſdom, as Lead doth he<g ref="char:EOLhyphen"/>betude and folly. <hi>Opulence,</hi> it is the riches of a people,
+<note place="margin">Gen. 2.11.</note> 
+                     <hi>Havilah</hi> is commended be<g ref="char:EOLhyphen"/>cauſe there is gold. <hi>Supremacy,</hi> it is the firſt of Mettals; and the <hi>King</hi> firſt of men. <hi>Tranquility,</hi> Times of peace, before Warre and Bloodſhed broke into the world, are by the <hi>Poets</hi> called the <hi>Golden Age.</hi>
+                  </p>
+                  <p>
+                     <hi>Mollia ſecurae peragebant otia gentes.</hi>
+                     <note place="margin">Ovid.</note>
+                  </p>
+                  <pb n="51" facs="tcp:97011:32"/>
+                  <p n="3">3. <hi>Pure. There's ſimplicity.</hi> It ſpeaks the <hi>King</hi> ſimple in oppoſition to mix<g ref="char:EOLhyphen"/>ture.</p>
+                  <p n="1">1. <hi>In his rule.</hi> It is not a Miſcellany an every-thing-nothing, a mingled, a Mungrel Government. It is not ſophi<g ref="char:EOLhyphen"/>ſticated with any <hi>Plebeian</hi> ingredients, not an <hi>Ariſtocratical</hi> compoſition, much leſs an <hi>Anarchical</hi> confuſion: but it is the <hi>pure gold of Monarchy.</hi>
+                  </p>
+                  <p n="2">2. <hi>In his Title.</hi> Which is clear,
+<note place="margin">Like him who would de<g ref="char:EOLhyphen"/>viſe the pedigree of <hi>O. Wil<g ref="char:EOLhyphen"/>liams</hi> alias <hi>Cromwel</hi> from <hi>Ow<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>
+                        </hi>
+                     </note> and fair; he needs no mercenary pen to lead him a new way into antiquity. He doth not cut out his way to it with the ſword, ſwim to it through a Sea of innocent blood, break into it through repealed Oaths, and Obligations. He doth not tread down Law and Right, ſtride over honor and honeſty, proſtitute conſcience and whatever the civilized world calls Sa<g ref="char:EOLhyphen"/>cred. Briefly. He does not weave a Cloak of Religion to ſteal a <hi>Crown</hi> withal: but his right is indubitate, his Title clear; it is a <hi>Crown of pure gold.</hi>
+                  </p>
+                  <p>This Crown of pure gold, commends the <hi>King's dignity:</hi> commands our <hi>duty.</hi>
+                  </p>
+                  <p n="1">1. <hi>Commends the King's dignity.</hi> Not as if he needed any mutuatitious worth, or had little but what he was beholden to
+<pb n="52" facs="tcp:97011:33"/>his <hi>Crown</hi> for: I think enemies them<g ref="char:EOLhyphen"/>ſelves <hi>(if ſo gracious a Prince can have a<g ref="char:EOLhyphen"/>ny)</hi> muſt needs ſay that he is even with his <hi>Crown,</hi> and brings as much luſtre to his <hi>Crown,</hi> as his <hi>Crown</hi> to him: but be<g ref="char:EOLhyphen"/>cauſe the <hi>Crown</hi> upon the right head, though he ſhould be otherwiſe unwor<g ref="char:EOLhyphen"/>thy, makes a <hi>Dignity.</hi> Which made it a pardonable and no unhandſome piece of Zeal in a noble perſon of this Nation:
+<note place="margin">
+                        <hi>Thomas</hi> Earl of <hi>Surrey</hi> to <hi>Hen</hi> 7.</note> that if the <hi>Crown</hi> were ſet upon a ſtake, he would fight for it. It is a truth, that <hi>Nero</hi> as <hi>King</hi> is exalted as much above the common rate of men, and hath as much right to obedience from his Sub<g ref="char:EOLhyphen"/>jects, as <hi>Auguſtus: Domitian,</hi> as <hi>Veſpa<g ref="char:EOLhyphen"/>ſian: Julian</hi> as <hi>Conſtantine.</hi> And if they that dote ſo upon Mr. <hi>Calvin's Diſci<g ref="char:EOLhyphen"/>pline,</hi> will but allow of his <hi>Doctrine,</hi> he tells us,
+<note place="margin">
+                        <hi>Calv. in Ro.</hi> 13.</note> 
+                     <hi>Etiamſi non rarò degenerant, qui Principatum tenent, nihilominus deferenda eſt eis obedientia, quae Principibus debetur.</hi> Though <hi>Princes</hi> ſhould not be good men, yet they have the right of good Princes, to the ſubjection of their people. <hi>Nulla ergo Tyrannis eſse poteſt,</hi>
+                     <note place="margin">Ibidem.</note> (ſayes the ſame <hi>Calvin,</hi> and I inſtance in it on purpoſe be<g ref="char:EOLhyphen"/>cauſe he ſayes ſo) <hi>quae non aliqua ex parte ſubſidio ſit ad tuendam hominum ſocietatem.</hi>
+                     <pb n="53" facs="tcp:97011:33"/>No <hi>Tyranny</hi> can be, which may not in ſome meaſure tend to advance the Weal<g ref="char:EOLhyphen"/>publick.
+<note place="margin">
+                        <hi>Pet. Mart. in Ro.</hi> 13.</note> And <hi>Peter Martyr</hi> ſpeaking of <hi>Nero,</hi> ſaith that, <hi>Cum ipſe imperio ſuo opprimeret Orbem terrarum, tamenjus dice<g ref="char:EOLhyphen"/>batur. Tyranny</hi> then in more ſober times, was never an exemption from obedience. Nay, the <hi>Canoniſts</hi> go further. <hi>Excom<g ref="char:EOLhyphen"/>municatio Domini non liberat vaſſalum à Sacramento.</hi>
+                     <note place="margin">Miniſters may ex<g ref="char:EOLhyphen"/>communi<g ref="char:EOLhyphen"/>cate Prin<g ref="char:EOLhyphen"/>ces. <hi>Bucha<g ref="char:EOLhyphen"/>nan. de jur. Reg. p.</hi> 70.</note> The Excommunication of a <hi>King,</hi> (if ſuch could be, and it is too well known whoſe fingers itch to have ſuch a power in their hands) doth not free a Subject from his Oath, and obedi<g ref="char:EOLhyphen"/>ence. It matters not what <hi>Sanders</hi> a ran<g ref="char:EOLhyphen"/>ting <hi>Romaniſt,</hi> aſſerts: <hi>An heretical King is no King.</hi> Nor do we value that vene<g ref="char:EOLhyphen"/>mous, <hi>Quacunque arte,</hi> of <hi>Mariana:</hi> it is lawful, ſayes he, but it is but he that ſayes it, by any artifice, trick, or cun<g ref="char:EOLhyphen"/>ning to remove <hi>Kings</hi> that ſtand in the way.
+<note place="margin">Compare <hi>Knox</hi> and <hi>Buchan.</hi> with <hi>Card. Bel. Emon. Sa. Petra Sancta</hi> and other <hi>Jeſuites.</hi>
+                     </note> And I know not whether our <hi>Schiſmatiques</hi> come in as ſeconds, or do not rather out-do all in their damnable poſitions; witneſs <hi>Muncer</hi> that notori<g ref="char:EOLhyphen"/>ous, and incomparable Impoſtor: who pretended to a conference with God, and a Commiſſion from him, to kill Kings, deſtroy the wicked, (ſuch as his ſenſe
+<pb n="54" facs="tcp:97011:34"/>makes ſo) and begin a new world of Saints.
+<note place="margin">Eph. 4.20.</note> But we <hi>have not ſo learned Chriſt.</hi> An unchriſtian'd <hi>Greek</hi> was better taught than ſo, who calls a <hi>King,</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>: the lively image of God, the Preſerver of all things. And <hi>Tertullian</hi> ſayes ſo much for the very <hi>Gen<g ref="char:EOLhyphen"/>tiles, Caeſarem majori formidine obſerva<g ref="char:EOLhyphen"/>tum à Gentilibus, quàm ipſum de Olympo Jovem.</hi> They looked on <hi>Caeſar</hi> with greater reverence than <hi>Jupiter.</hi> To ſhor<g ref="char:EOLhyphen"/>ten this. Our hiſtories tell us, that <hi>Eleu<g ref="char:EOLhyphen"/>therius</hi> wrote to <hi>King Lucius,</hi> (by whoſe means the heavenly light and brightneſs of Chriſtianity firſt ſhone upon this Iſland,
+<note place="margin">
+                        <hi>Camd. Brit p.</hi> 67.</note> as ſaith our <hi>Antiquary</hi>) <hi>Vos eſtis Dei Vicarius</hi> You are God's Vicegerent in your Kingdom. <hi>Kings</hi> are all ſo. They are his Repreſentatives here below<g ref="char:punc">▪</g> He communicates his own name and ſtile to them: that men may know they are a<g ref="char:EOLhyphen"/>nointed with the Oyle of gladneſs above their fellows, and learn to look on <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi> as a very tranſcript of <hi>Divinity. This Crown of pure gold, commends the King's Dignity.</hi> That's firſt.</p>
+                  <p n="2">2. <hi>It commands the Subjects Duty.</hi> The Crown layes claim to our obedience. And though the <hi>Donatiſts</hi> of old, (whom,
+<pb n="55" facs="tcp:97011:34"/>a peeviſh,
+<note place="margin">
+                        <hi>Canne,</hi> in his V<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>trom the <hi>Temple,</hi> that <hi>Vox &amp; praete<g ref="char:EOLhyphen"/>rea nihil.</hi>
+                     </note> and impertinent Trifle of the late mad world, was not aſhamed to call honeſt) and our <hi>Donatiſts</hi> under new names, would fain find out ſome ſubter<g ref="char:EOLhyphen"/>fuges, and plead an exemption: yet they run full upon the mouth of that <hi>Canon</hi> of the <hi>Apoſtle,</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,
+<note place="margin">Rom. 13.1</note> 
+                     <hi>Let every ſoul be ſubject:</hi>
+                     <note place="margin">E<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ad E<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſc. Se<g ref="char:EOLhyphen"/>nond.</note> Every ſoul without excepti<g ref="char:EOLhyphen"/>on. <hi>Qui tentat excipere tentat decipere.</hi> So Saint <hi>Bernard</hi> concludes. He that would except, would deceive. He, that with the <hi>ſons of Belial,</hi> dares ask,
+<note place="margin">1 Sam. 10.</note> 
+                     <hi>What is Saul</hi> that he ſhould reign over us? will not ſtick, in time,
+<note place="margin">Job 21.15.</note> to queſtion with the <hi>Atheiſt</hi> in <hi>Job, What is the Almighty that we ſhould ſerve him?</hi> Our own late experiences evince this abundantly, and are a ſad proof of it. Theſe are thoſe <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, The blots and blemiſhes, the Scab and ſcandal to all <hi>Religion.</hi> Such unruly principles, and practices have made <hi>Chriſtianity</hi> ſuffer, opening the mouths of <hi>Julian,</hi> and <hi>Porphyrie,</hi> and ſuch like ſcoffers, to declaim againſt it, as an enemy to all order and government. It was the commendation of the <hi>Chriſti<g ref="char:EOLhyphen"/>ans,</hi> good ſubjects to <hi>Antonine</hi> no very good Emperor, that they did <hi>Inſervire laeti,</hi> they did him cheerful ſervice; how
+<pb n="56" facs="tcp:97011:35"/>much more then ſhall the beſt of Kings command ready obedience, even from the worſt of Subjects?</p>
+                  <p>I hope I may ſave the labour of an ex<g ref="char:EOLhyphen"/>hortation <hi>in this place,</hi>
+                     <note place="margin">K. <hi>Charles</hi> the firſt before the Gates of <hi>Hull</hi> on St. <hi>George</hi>'s day. 1642.</note> if I do but call to your remembrance, <hi>who it was which this day nineteen years ſtood before your gates.</hi> Much good may the meditation do you; thoughts of it had need make you more than penitents. Nor will I draw Arguments of obedience to you from the <hi>King,</hi> or his <hi>Crown:</hi> the name of your <hi>Town</hi> dedicates you to him,
+<note place="margin">
+                        <hi>Kingſton</hi> ſuper <hi>Hull.</hi>
+                     </note> and the very <hi>Arms</hi> of your <hi>Corporation</hi> are Monitors of your loyalty: where, leſt one ſhould not ſerve, you have no leſs than <hi>three Crowns</hi> to put you in mind of your duty. <hi>The Crown commands duty.</hi>
+                  </p>
+                  <p>And be that enough for the ſecond particular, in this latter general part of the Text. <hi>The Crown on the King's head of pure gold.</hi>
+                  </p>
+               </div>
+               <div n="3" type="section">
+                  <p>Come we now to the third and laſt. The hand of God ſetting that Crown of pure gold, upon the head of the King. <hi>Thou ſetteſt a Crown of pure gold on his head.</hi>
+                  </p>
+                  <p>
+                     <hi>Thou.</hi>
+                     <note place="margin">Dan. 5.21.</note> And who could do it but he? He is the <hi>moſt high, and ruleth in the king<g ref="char:EOLhyphen"/>dom
+<pb n="57" facs="tcp:97011:35"/>of men,</hi>
+                     <note place="margin">Ch. 2.37</note> 
+                     <hi>and appointeth over it whom<g ref="char:EOLhyphen"/>ſoever he will. The God of Heaven hath given thee a kingdom, power, and ſtrength, and glory:</hi> ſayes <hi>Daniel,</hi> who was <hi>Privy-Counſellor</hi> to two <hi>Monarchies,</hi> and <hi>Prin<g ref="char:EOLhyphen"/>cipal Secretary</hi> to four <hi>Kings:</hi> and ſo had the advantage to obſerve their ſucceſſi<g ref="char:EOLhyphen"/>ons, alterations, and diſpoſals. God is the great Moderator of Heaven and Earth: the Original of Dominion is in him: he is the only arbitrary, and indi<g ref="char:EOLhyphen"/>ſputable diſpoſer of all the <hi>Diadems</hi> of the world. He ſetteth on the <hi>Crown, By me Kings reign,</hi>
+                     <note place="margin">Prov. 8.15. Pſal. 89.39.</note> 
+                     <hi>and Princes decree juſtice.</hi> He taketh off the Crown. <hi>Thou haſt prophaned his Crown by caſting it to the ground.</hi>
+                  </p>
+                  <p>
+                     <hi>Thou ſetteſt it on:</hi> by thy Commiſſive, and Ordinative; he ſets it not on him<g ref="char:EOLhyphen"/>ſelf, by thy permiſſive Will. He takes it fairly from thy hand: does not ſeize it by any hand of craft, or cruelty. It is the happineſs of a people when their <hi>King</hi> hath a Crown of <hi>God's</hi> ſetting on: Uſur<g ref="char:EOLhyphen"/>pers are their grievance, make them complain as the <hi>Romans</hi> of <hi>Pompey</hi> the great. <hi>Miſeria noſtra Magnus eſt.</hi>
+                  </p>
+                  <p>
+                     <hi>Thou ſetteſt it on.</hi> And who hath ſuch cauſe to ſay ſo as we? <hi>Men and Brethren,</hi>
+                     <pb n="58" facs="tcp:97011:36"/>let me ſpeak freely unto you; if ever <hi>Crown</hi> was ſet on by the immediate hand of <hi>God,</hi> it is that upon the <hi>King's head this day.</hi>
+                     <note place="margin">
+                        <hi>Iſa.</hi> 52.10.</note> Never did the <hi>Lord</hi> ſo <hi>make bare his holy arm in the eyes of all the Nati<g ref="char:EOLhyphen"/>on:</hi> never did this <hi>end of the earth ſee ſuch ſalvation of our God.</hi> I appeal to his moſt inveterate Oppugners, who were wont to argue the righteouſneſs of their cauſe from the <hi>Topick</hi> of their ſucceſs, and vi<g ref="char:EOLhyphen"/>ctories;
+<note place="margin">Deut. 32.31. Ch. 4.32.</note> whether <hi>their Rock</hi> be as <hi>our Rock, even our enemies themſelves being judges. For ask now of the dayes that are paſt, which were before us, ſince the day that God created man upon the earth, and ask from one ſide of Heaven unto the other, whether there hath been any ſuch thing as this great thing is, or hath been heard like i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>?</hi> When they were as numerous, and as haughty as <hi>Senacherib,</hi> vaunting that they were enow with <hi>the ſoles of their feet to dry up all the rivers of beſieged places:</hi>
+                     <note place="margin">Iſa 38.24, 25.</note> 
+                     <hi>and ſaid, By the multitude of my Chariots am I come up, to the heighth of the Moun<g ref="char:EOLhyphen"/>tain, to the ſides of</hi> Lebanon: <hi>and I will enter into the heighth of his border, and the forreſt of his Carmel;</hi> then did <hi>God</hi> but <hi>hiſs for the flie</hi> (as it is in the <hi>Prophet</hi>) call up from <hi>Scotland</hi> a ſmall,
+<note place="margin">Iſa. 7.18.</note> inconſiderable,
+<pb n="59" facs="tcp:97011:36"/>and deſpiſed number, and with them wrought this great Salvation.
+<note place="margin">Exod. 15.3, 6.</note> 
+                     <hi>The Lord is a man of war: the Lord is his name. Thy right-hand, O Lord, is become glori<g ref="char:EOLhyphen"/>ous in power; thy right-hand, O Lord, hath daſhed in pieces the enemy.</hi> And though there were ſeveral loyal attempts made before, and ſome of them probable e<g ref="char:EOLhyphen"/>nough, to effect deliverance for us: yet did the all-wiſe <hi>God</hi> ſuffer them to be all broken, and fruſtrated; happily, that he might fool earthly wiſdom, and by ſtain<g ref="char:EOLhyphen"/>ing the beauty of all creature-excellency, take the whole glory of our deliverance to himſelf, that he might give us cauſe with admiration, and amazement, to ſay, <hi>Thon ſetteſt a Crown of pure gold on his head.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="inferences">
+               <p>A word of Inference, and I ha' done.</p>
+               <p n="1">1. <hi>If God ſet the Crown on the King's head:</hi> then what wretched impudence is it in any, to dare to think, much more to attempt, the taking it off? It is the very acting of that fancy of the <hi>Poets,</hi> of the <hi>Giants</hi> fighting againſt <hi>Heaven.</hi> No<g ref="char:EOLhyphen"/>thing but <hi>Hell</hi> is ill enough to own ſuch an audacious preſumption, a moſt dete<g ref="char:EOLhyphen"/>ſtable, and monſtrous impiety.</p>
+               <p n="2">2. <hi>If God ſet the Crown on the King's
+<pb n="60" facs="tcp:97011:37"/>head:</hi> let us ſet our hearts on the <hi>King.</hi> As <hi>Samuel</hi> ſaid to <hi>Saul:</hi>
+                  <note place="margin">1 Sam 9.20.</note> 
+                  <hi>On whom is all the deſire of</hi> Iſrael? <hi>is it not on thee, and on all thy fathers houſe?</hi> Prize him as the loy<g ref="char:EOLhyphen"/>al men of <hi>Judah</hi> did their <hi>King David: Thou art worth ten thouſand of us. Give unto</hi> Ceſar <hi>the things that are</hi> Ceſar<hi>'s.</hi>
+                  <note place="margin">
+                     <hi>Geneva</hi> Bibles wrong the King.</note> 
+                  <hi>Give,</hi> did I ſay? it is not ſo proper, (though ſome like that Tranſlation bet<g ref="char:EOLhyphen"/>ter,) <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, is the word, render, pay, it is his due.
+<note place="margin">Rom. 13.7.</note> 
+                  <hi>Render</hi> him his <hi>due Tribute</hi> (as the <hi>Apoſtle</hi> calls it) the Tribute of our perſons, our purſes, our tongues, our hands, our hearts, Make honoura<g ref="char:EOLhyphen"/>ble mention of him when we ſpeak of him.
+<note place="margin">Bern.</note> I, and we muſt <hi>Sentire ſublimiter</hi> too, ſaves the Father, think highly of him. Do not take up any unworthy re<g ref="char:EOLhyphen"/>ports, nor entertain any unhanſome ſu<g ref="char:EOLhyphen"/>ſpicion of him. Do but remember how dear we have paid for our <hi>jealouſies,</hi> and I'le ſay no more of that.</p>
+            </div>
+            <div type="conclusion">
+               <p>To draw to a concluſion. Nothing now remains, but <hi>Prayers,</hi> and <hi>Praiſes.</hi>
+               </p>
+               <p n="1">1. <hi>Prayers,</hi> to him that ſetteth <hi>the Crown of pure gold on the King's head,</hi> that he will pleaſe there to fix,
+<note place="margin">Pſal. 89.20, 21, 22.</note> and keep it. That as he hath <hi>found</hi> David <hi>his ſer<g ref="char:EOLhyphen"/>vant, and anointed him with his holy oyle:</hi>
+                  <pb n="61" facs="tcp:97011:37"/>ſo he will <hi>eſtabliſh his hand with him, and let his arm ſtrengthen him:</hi> that <hi>the ene<g ref="char:EOLhyphen"/>my may not exact upon him, nor the ſon of wickedneſs hurt him.</hi> That God, who watched over him,
+<note place="margin">Pſal. 105.13, 15.</note> and charged his pro<g ref="char:EOLhyphen"/>vidence with him, when he <hi>went from one Nation to another, from one Kingdom to another people,</hi>
+                  <note place="margin">Pſaſ. 140.12.</note> and ſuffered no man to <hi>touch his Anointed:</hi> will ſtill <hi>deliver him from the evil man, and preſerve him from the violent man, which imagine miſchief in their heart,</hi>
+                  <note place="margin">Pſal. 18.47, 48.</note> 
+                  <hi>and continually are gathering together for War. That he will ſubdue the people under him, and lift him up above thoſe that riſe up againſt him.</hi>
+                  <note place="margin">V. 6.7. <hi>hu<g ref="char:EOLhyphen"/>jus Pſ.</hi>
+                  </note> That <hi>he will make him exceeding glad with his countenance, and the King truſting in God, through the mercy of the moſt high,</hi>
+                  <note place="margin">Pſal. 7<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.9. Pſal. 132.18.</note> 
+                  <hi>he may not miſcarry.</hi> That <hi>his enemies may lick the duſt, and be cloathed with ſhame: but upon himſelf his Crown may flouriſh.</hi> And bleſſed be God our prayers for him may come out of our Cloſets again, and be put up in the Congregation. It is ſad to think how he was perſecuted out of the very prayers of his people. And theſe <hi>Prodigious Reformers</hi> would needs have our duty, to be our crime. A duty we owe to all, to Kings moſt of all; and was
+<pb n="62" facs="tcp:97011:38"/>never forbidden by any, but where <hi>They,</hi> and <hi>Satan</hi> had command. How well their interdiction to pray for the <hi>King</hi> can con<g ref="char:EOLhyphen"/>ſiſt with that <hi>Apoſtolical</hi> injunction,
+<note place="margin">1 Tim. 2 1.</note> 
+                  <hi>to pray for Kings, and for all that are in autho<g ref="char:EOLhyphen"/>rity,</hi> let the world judge, unleſs theſe <hi>New Modellers</hi> can pretend to a power of regulating the Rule it ſelf, and to deal with the Royal Law, as they ſometime did with the Laws of the Kingdom. But we ſhall leave them to him who hath <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the ſharp Sword with two edges, to avenge the af<g ref="char:EOLhyphen"/>fronts, and injuries done to his own truth.</p>
+               <p n="2">2. Praiſes. Let us end with them. Praiſe is the great duty of this day.
+<note place="margin">Pſal. 44 8.</note> 
+                  <hi>In God</hi> let us <hi>boaſt all the day long, and praiſe his name for ever.</hi>
+                  <note place="margin">Exod. 15.1, 2, 7.</note> 
+                  <hi>Sing unto the Lord, for he hath triumphed gloriouſly. The Lord is our ſtrength and ſong, and he is become our ſalvation. In the greatneſs of thine excel<g ref="char:EOLhyphen"/>lency thou haſt overthrown them that roſe up against thee.</hi>
+                  <note place="margin">Pſal. 148.13.</note> And therefore, Let us <hi>praiſe the name of the Lord: for his name alone is excellent, his glory is above the Earth,</hi>
+                  <note place="margin">Pſal. 150.1.</note> 
+                  <hi>and Heaven. Praiſe God in his Sanctuary; praiſe him in the firmament of his power.</hi>
+               </p>
+               <p>You of the Magiſtracy; <hi>Praiſe him in
+<pb n="63" facs="tcp:97011:38"/>the heighths;</hi>
+                  <note place="margin">Verſ. 2.</note> 
+                  <hi>praiſe him for his mighty acts: praiſe him according to his excellent greatneſs.</hi>
+               </p>
+               <p>You of the Souldiery;
+<note place="margin">Pſal. 149.6.</note> 
+                  <hi>Let the high praiſes of God be in your mouths, and a two-edged ſword in your hands.</hi>
+               </p>
+               <p>You of the Commonalty;
+<note place="margin">Pſal. 29 1. 2, 9.</note> 
+                  <hi>Give unto the Lord glory and ſtrength: give unto the Lord the glory due unto his Name: in his Temple let every man ſpeak of his honor; for the Lord taketh pleaſure in his people,</hi>
+                  <note place="margin">Pſal. 149.4. Pſal. 29.11. Pſal. 64.9.</note> 
+                  <hi>he will beautifie the meek with ſalvation: The Lord will give ſtrength unto his people: the Lord will bleſs his people with peace. Let all men fear, and declare the work of God: and wiſely conſider of his doings.</hi>
+               </p>
+               <p>Let us all praiſe him, till Earth emu<g ref="char:EOLhyphen"/>lates Heaven where they are all praiſes. <hi>Let them ſhout for joy, and be glad,</hi>
+                  <note place="margin">Pſal. 35.27.</note> 
+                  <hi>that fa<g ref="char:EOLhyphen"/>vour our Righteous Cauſe: yea, let them ſay continually, Let the Lord be magnified, which taketh pleaſure in the proſperity of his ſervants. Becauſe thou haſt been our help;</hi>
+                  <note place="margin">Pſal. 63.4.7.</note> 
+                  <hi>therefore in the ſhadow of thy wings will we rejoice. Thus will we bleſs thee while we live, and lift up our hands in thy Name.</hi> And when mens tongues cannot reach it, let us borrow of Angels,
+<note place="margin">Luk. 2.13.14.</note> and join with the <hi>heavenly Host, praiſing God and ſay<g ref="char:EOLhyphen"/>ing,
+<pb n="64" facs="tcp:97011:39"/>Glory to God in the higheſt, and on earth peace, good-will towards men.</hi>
+               </p>
+               <p>And that our praiſes may come in a good place, and our thankfulneſs follow our mercies nearer than ordinary: Let them be <hi>Mental,</hi> and <hi>Monumental.</hi>
+               </p>
+               <p n="1">1. <hi>Mental.</hi> Keep in mind the works of God. Let not that complaint of <hi>Ne<g ref="char:EOLhyphen"/>hemiah</hi> come in againſt us.
+<note place="margin">Neh. 9.16, 17.</note> That we <hi>dealt proudly, and hardned our necks, and heark<g ref="char:EOLhyphen"/>ned not to his commandments. And refu<g ref="char:EOLhyphen"/>ſed to obey, neither were mindful of the wonders that he did among us.</hi> Let not that of the <hi>Pſalmiſt</hi> be charged upon us, That we <hi>ſang his praiſe,</hi>
+                  <note place="margin">Pſal. 106.12, 13, 21.</note> 
+                  <hi>and ſoon forgat his works.</hi> That we <hi>forgat God our Savi<g ref="char:EOLhyphen"/>our who had done great things for</hi> us. To remember mercies is but a cheap piece of thankfulneſs.</p>
+               <p n="2">2. <hi>Monumental.</hi> Erect <hi>Trophees,</hi> and ſet up Memorials of our deliverance.
+<note place="margin">Pſal. 45.4, 5, 6, 7.</note> Let <hi>one generation praiſe his works to another, and declare his mighty acts. Let them ſpeak of the glorious honor of his Majeſty, and of his wonderous works.</hi> Let <hi>men ſpeak of the might of his terrible acts: and declare his greatneſs.</hi> Let them <hi>abun<g ref="char:EOLhyphen"/>dantly utter the memory of his great good<g ref="char:EOLhyphen"/>neſs, and ſing of his righteouſneſs.</hi> Pro<g ref="char:EOLhyphen"/>pagate
+<pb n="65" facs="tcp:97011:39"/>our deliverance to infinite poſteri<g ref="char:EOLhyphen"/>ty. <hi>Hide it not from our children,</hi>
+                  <note place="margin">Pſal. 78.4.</note> 
+                  <hi>and let them ſhew the generations to come the praiſes of the Lord: and his ſtrength, and his won<g ref="char:EOLhyphen"/>derful works that he hath done.</hi>
+                  <note place="margin">Num. 23.23.</note> 
+                  <hi>According to this time it ſhall he ſaid of</hi> Jacob, <hi>and of</hi> Iſrael, <hi>what hath God wrought?</hi>
+                  <note place="margin">Exod. 12.14, 17.</note> Let this day be repeated annually: <hi>it is a day to be unto us for a memorial: to keep it a feaſt unto the Lord throughout our generations: to obſerve it in our generations by an Ordi<g ref="char:EOLhyphen"/>nance for ever.</hi>
+                  <note place="margin">Pſal. 102.18.</note> Let it be <hi>written for the generations to come: that the people which ſhall be created, may praiſe the Lord:</hi>
+                  <note place="margin">Pſal. 111.4.</note> That <hi>merciful and gracious Lord, who hath ſo done his marvellous works, that they ought to be had in remembrance.</hi>
+                  <note place="margin">Pſal. 136.23.</note> 
+                  <hi>Who remem<g ref="char:EOLhyphen"/>bred us in our low eſtate:</hi> brought back <hi>his baniſhed:</hi> and hath all his life <hi>prevented him with the bleſſings of goodneſs,</hi> and this day ſet <hi>a Crown of pure gold on his head.</hi>
+               </p>
+               <p>Now unto the King eternal,
+<note place="margin">1 Tim. 1.17.</note> immor<g ref="char:EOLhyphen"/>tal, inviſible, the only wiſe God, be honor and glory for ever and ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
